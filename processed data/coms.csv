@@ -1,0 +1,2265 @@
+,commodity,num of obs
+999,From combustible fuels – Main activity,1623
+996,From combustible fuels – Autoproducer,1365
+1000,From combustible fuels – Main activity – CHP plants,1301
+997,From combustible fuels – Autoproducer – CHP plants,1150
+2195,"Electricity - Own use by electricity, heat and CHP plants",917
+2183,Electricity - Final energy consumption,917
+2184,Electricity - Gross demand,917
+2185,Electricity - Gross production,917
+2188,Electricity - net production,917
+2167,Electricity - Consumption by other,917
+2203,"Electricity - total production, main activity",917
+2154,Electricity - total thermal production,917
+666,"Electricity - total net installed capacity of electric power plants, main activity & autoproducer",916
+662,"Electricity - total net installed capacity of electric power plants, combustible fuels",916
+647,"Electricity - net installed capacity of electric power plants, public combustible fuels",916
+665,"Electricity - total net installed capacity of electric power plants, main activity",916
+1243,Liquified Petroleum Gas (LPG) - Final energy consumption,910
+846,Gas Oil/ Diesel Oil - Imports,910
+740,Fuel oil - Total energy supply,910
+2168,"Electricity - Consumption by other manuf., const. and non-fuel ind.",910
+1223,Liquefied petroleum gas (LPG) - Total energy supply,910
+863,Gas Oil/ Diesel Oil - Total energy supply,910
+2163,"Electricity - Consumption by manufacturing, construction and non-fuel industry",910
+1322,Motor Gasoline - Total energy supply,910
+1197,Liquefied petroleum gas (LPG) - Consumption by other,910
+1207,Liquefied petroleum gas (LPG) - Final consumption,910
+2187,Electricity - Losses,910
+845,Gas Oil/ Diesel Oil - Final energy consumption,909
+844,Gas Oil/ Diesel Oil - Final consumption,909
+832,Gas Oil/ Diesel Oil - Consumption by transport,909
+1304,Motor Gasoline - Final consumption,908
+1306,Motor Gasoline - Imports,908
+1305,Motor Gasoline - Final energy consumption,908
+2160,Electricity - Consumption by households,906
+1297,Motor Gasoline - Consumption by transport,906
+1301,Motor Gasoline - Consumption in road,906
+725,Fuel oil - Imports,904
+838,Gas Oil/ Diesel Oil - Consumption in road,901
+862,Gas Oil/ Diesel Oil - Stock changes,899
+1321,Motor Gasoline - Stock changes,898
+240,Bitumen - Total energy supply,897
+234,Bitumen - Non-energy uses,894
+230,Bitumen - Final consumption,894
+979,Hard coal - total energy supply,892
+823,"Gas Oil/ Diesel Oil - Consumption by manufacturing, construction and non-fuel mining industry",892
+828,"Gas Oil/ Diesel Oil - Consumption by other manuf., const. and non-fuel min. ind.",892
+723,Fuel oil - Final consumption,891
+724,Fuel oil - Final energy consumption,891
+703,"Fuel oil - Consumption by manufacturing, construction and non-fuel industry",891
+1134,Kerosene-type Jet Fuel - Total energy supply,890
+1271,Lubricants - Total energy supply,889
+866,Gas Oil/ Diesel Oil - Transformation,888
+1262,Lubricants - Non-energy uses,888
+1257,Lubricants - Final consumption,888
+964,Hard coal - final consumption,887
+965,Hard coal - final energy consumption,887
+2156,Electricity - Consumption by chemical and petrochemical,887
+1208,Liquefied petroleum gas (LPG) - Imports,885
+1126,Kerosene-type Jet Fuel - International aviation bunkers,884
+708,"Fuel oil - Consumption by other manuf., const. and non-fuel ind.",884
+654,"Electricity - net installed capacity of electric power plants, self-producer combustible fuels",882
+661,"Electricity - total net installed capacity of electric power plants, autoproducer",882
+827,Gas Oil/ Diesel Oil - Consumption by other,880
+944,"Hard coal - consumption by manufacturing, construction and non-fuel mining industry",878
+950,"Hard coal - consumption by other manuf., const. and non-fuel ind.",875
+966,Hard coal - imports,873
+739,Fuel oil - Stock changes,873
+2202,"Electricity - total production, autoproducer",872
+789,Fuelwood - Total energy supply,871
+1064,Electricity - total hydro production,871
+649,"Electricity - net installed capacity of electric power plants, public hydro",870
+664,"Electricity - total net installed capacity of electric power plants, hydro",870
+1194,Liquefied petroleum gas (LPG) - Consumption by households,869
+2219,Hydro – Main activity,868
+870,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",867
+787,Fuelwood - Production,861
+1125,Kerosene-type Jet Fuel - Imports,859
+742,Fuel oil - Transformation,859
+1259,Lubricants - Imports,857
+2161,Electricity - Consumption by iron and steel,856
+1196,"Liquefied petroleum gas (LPG) - consumption by manufacturing, construction and non-fuel mining industry",852
+2157,Electricity - Consumption by commercial and public services,850
+2174,Electricity - Consumption by transport,849
+1133,Kerosene-type Jet Fuel - Stock changes,843
+1454,Natural gas (including LNG) - total energy supply,842
+779,Fuelwood - Final energy consumption,841
+778,Fuelwood - Final consumption,841
+765,Fuelwood - Consumption by other,840
+835,"Gas Oil/ Diesel Oil - Consumption in agriculture, forestry and fishing",837
+747,"Fuel oil - Transformation in electricity, CHP and heat plants",833
+1432,Natural gas (including LNG) - final consumption,833
+1456,Natural gas (including LNG) - transformation,833
+843,Gas Oil/ Diesel Oil - Exports,832
+978,Hard coal - stock changes,832
+1461,"Natural gas (including LNG) - transformation in electricity, CHP and heat plants",832
+2177,"Electricity - Consumption in agriculture, forestry and fishing",831
+1199,"Liquefied petroleum gas (LPG) - consumption by other manuf., const. and non-fuel min. ind.",830
+1433,Natural Gas (including LNG) - final energy consumption,828
+232,Bitumen - Imports,826
+2181,Electricity - Energy industries own use,826
+1417,Natural gas (including LNG) - consumption by other,826
+758,Fuelwood - Consumption by households,823
+1418,"Natural gas (including LNG) - consumption by other manuf., const. and non-fuel ind.",821
+1413,"Natural gas (including LNG) - consumption by manufacturing, construction and non-fuel industry",821
+722,Fuel oil - Exports,818
+1222,Liquefied petroleum gas (LPG) - Stock changes,815
+707,Fuel oil - Consumption by other,813
+1303,Motor Gasoline - Exports,812
+837,Gas Oil/ Diesel Oil - Consumption in rail,811
+1409,Natural gas (including LNG) - consumption by households,809
+1404,Natural gas (including LNG) - consumption by chemical and petrochemical,801
+1709,Other kerosene - Total energy supply,794
+2178,Electricity - Consumption not elsewhere specified (industry),792
+2171,Electricity - Consumption by rail,789
+593,Crude petroleum - refinery capacity,788
+2166,Electricity - Consumption by non-metallic minerals,784
+581,Conventional crude oil - total energy supply,784
+1639,Other bituminous coal - total energy supply,782
+571,Conventional crude oil - imports,778
+1411,Natural gas (including LNG) - consumption by iron and steel,776
+589,Conventional crude oil - transformation in oil refineries,775
+583,Conventional crude oil - transformation,775
+2186,Electricity - imports,775
+859,Gas Oil/ Diesel Oil - Production,775
+738,Fuel oil - production from refineries,775
+1319,Motor Gasoline - production from refineries,775
+860,Gas Oil/ Diesel Oil - production from refineries,775
+737,Fuel oil - Production,775
+2235,Total refinery throughput,775
+1317,Motor Gasoline - Production,775
+2234,Total refinery output,775
+1206,Liquefied petroleum gas (LPG) - Exports,774
+580,Conventional crude oil - stock changes,774
+2162,Electricity - Consumption by machinery,770
+2159,Electricity - Consumption by food and tobacco,770
+1041,Heat - Gross production,768
+1052,"Heat - Own use by electricity, CHP and heat plants",768
+2182,Electricity - exports,768
+1040,Heat - Gross demand,767
+1044,Heat - Net production,767
+1219,Liquefied petroleum gas (LPG) - Production,766
+980,Hard coal - transformation,766
+2169,"Electricity - Consumption by paper, pulp and print",764
+1625,Other bituminous coal - final consumption,763
+1429,Natural gas (including LNG) - energy industries own use,762
+1626,Other bituminous coal - final energy consumption,762
+1606,"Other bituminous coal - consumption by manufacturing, construction and non-fuel industry",762
+1436,Natural gas (including LNG) - imports,758
+2259,White spirit and special boiling point industrial spirits - Total energy supply,757
+2092,Refinery gas - Total energy supply,755
+2090,Refinery gas - Production from refineries,755
+2089,Refinery gas - Production,755
+2251,White spirit and special boiling point industrial spirits - final consumption,752
+947,Hard coal - consumption by non-metallic minerals industry,752
+2173,Electricity - Consumption by textile and leather,752
+721,Fuel oil - Energy industries own use,752
+2200,Electricity - Own use by oil refineries,751
+1611,"Other bituminous coal - consumption by other manuf., const. and non-fuel ind.",750
+1692,Other kerosene - Final consumption,750
+1627,Other bituminous coal - imports,749
+2046,Petroleum coke - Total energy supply,747
+2213,From combustible fuels – Main activity – Electricity plants,746
+694,Fuel oil - Consumption by chemical and petrochemical,746
+1693,Other kerosene - Final energy consumption,745
+229,Bitumen - Exports,744
+2254,White spirit and special boiling point industrial spirits - Non-energy uses,744
+1221,Liquefied petroleum gas (LPG) - production from refineries,743
+1039,Heat - Final energy consumption,741
+2158,Electricity - Consumption by construction,741
+790,Fuelwood - Transformation,740
+1796,Other oil products n.e.c. - Total energy supply,737
+2088,Refinery gas - Own use by oil refineries,736
+2079,Refinery gas - Energy industries own use,736
+1405,Natural Gas (including LNG) - consumption by commerce and public services,733
+819,Gas Oil/ Diesel Oil - Consumption by food and tobacco ,729
+816,Gas Oil/ Diesel Oil - Consumption by commerce and public services,729
+1419,"Natural Gas (including LNG) - consumption by paper, pulp and print",725
+820,Gas Oil/ Diesel Oil - Consumption by households,725
+1780,Other oil products n.e.c. - Final consumption,725
+836,Gas Oil/ Diesel Oil - Consumption in domestic navigation,725
+1256,Lubricants - Exports,722
+839,Gas Oil/ Diesel Oil - Consumption not elsewhere specified (industry),722
+2164,Electricity - Consumption by mining and quarrying,721
+1132,Kerosene-type Jet Fuel - production from refineries,720
+1131,Kerosene-type Jet Fuel - Production,720
+1029,Heat - Consumption by other,720
+1609,Other bituminous coal - consumption by non-metallic minerals,720
+847,Gas Oil/ Diesel Oil - International marine bunkers,719
+1410,Natural Gas (including LNG) - consumption by industries not elsewhere specified,719
+1416,Natural Gas (including LNG) - consumption by non-metallic minerals,719
+1058,Heat production - Main activity total,718
+986,"Hard coal - transformation in electricity, CHP and heat plants",716
+2035,Petroleum coke - Imports,714
+826,Gas Oil/ Diesel Oil - Consumption by non-metallic minerals ,713
+670,"Electricity - total net installed capacity of electric power plants, wind",713
+1408,Natural Gas (including LNG) - consumption by food and tobacco,712
+948,Hard coal - consumption by other,711
+2033,Petroleum coke - final consumption,709
+238,Bitumen - production from refineries,705
+237,Bitumen - Production,705
+1123,Kerosene-type Jet Fuel - Final consumption,704
+1124,Kerosene-type Jet Fuel - Final energy consumption,704
+699,Fuel oil - Consumption by food and tobacco ,702
+239,Bitumen - Stock changes,702
+1678,Other kerosene - Consumption by other,701
+1638,Other bituminous coal - stock changes,698
+1412,Natural Gas (including LNG) - consumption by machinery,698
+1122,Kerosene-type Jet Fuel - Exports,696
+736,Fuel oil - Own use by oil refineries,696
+2263,Electricity - total wind production,696
+2165,Electricity - Consumption by non-ferrous metals,693
+188,Biogases - Total energy supply,693
+186,Biogases - Production,693
+1200,Liquefied petroleum gas (LPG) - Consumption by transport,692
+91,Aviation gasoline - Total energy supply,691
+817,Gas Oil/ Diesel Oil - Consumption by construction ,688
+2176,Electricity - Consumption by wood and wood products,688
+1393,Naphtha - Total energy supply,685
+1389,Naphtha - Production,683
+1391,Naphtha - production from refineries,683
+1421,Natural Gas (including LNG) - consumption by textile and leather,680
+1203,Liquefied petroleum gas (LPG) - Consumption in road,680
+2063,Feedstocks - transformation,677
+2064,Feedstocks - transformation in oil refineries,677
+706,Fuel oil - Consumption by non-metallic minerals ,675
+1425,"Natural gas (including LNG) - consumption in agriculture, forestry and fishing",673
+726,Fuel oil - International marine bunkers,672
+718,Fuel oil - Consumption not elsewhere specified (industry),669
+1110,Kerosene-type Jet Fuel - Consumption by domestic aviation,667
+1116,Kerosene-type Jet Fuel - Consumption by transport,667
+1647,"Other bituminous coal - Transformation in electricity, CHP and heat plants",666
+1640,Other bituminous coal - transformation,666
+189,Biogases - Transformation,665
+1785,Other oil products n.e.c. - Non-energy uses,664
+2212,From combustible fuels – Autoproducer – Electricity plants,662
+2175,Electricity - Consumption by transport equipment,661
+1270,Lubricants - Stock changes,659
+1794,Other oil products n.e.c. - production from refineries,658
+1793,Other oil products n.e.c. - Production,658
+1021,Heat - Consumption by households,657
+2061,Feedstocks - total energy supply,655
+83,Aviation gasoline - Final consumption,655
+79,Aviation gasoline - Consumption in domestic aviation,655
+77,Aviation gasoline - Consumption by transport,655
+84,Aviation gasoline - Final energy consumption,655
+1439,Natural gas (including LNG) - non-energy uses,653
+653,"Electricity - net installed capacity of electric power plants, public wind",652
+1438,Natural gas (including LNG) - Memo:Gross production,651
+1450,Natural gas (including LNG) - production,651
+761,"Fuelwood - Consumption by manufacturing, construction and non-fuel industry",650
+821,Gas Oil/ Diesel Oil - Consumption by iron and steel,650
+766,"Fuelwood - Consumption by other manuf., const. and non-fuel ind.",650
+192,"Biogases - Transformation in electricity, CHP and heat plants",649
+2233,Wind – Main activity,647
+815,Gas Oil/ Diesel Oil - Consumption by chemical and petrochemical,646
+2253,White spirit and special boiling point industrial spirits - Imports,646
+1458,Natural Gas (including LNG) - transformation in CHP plants - autoproducers,643
+942,Hard coal - consumption by households,642
+822,Gas Oil/ Diesel Oil - Consumption by machinery ,640
+1025,"Heat - Consumption by manufacturing, construction and non-fuel industry",639
+963,Hard coal - exports,638
+1453,Natural gas (including LNG) - stock changes,637
+1030,"Heat - Consumption by other manuf., const. and non-fuel ind.",637
+656,"Electricity - net installed capacity of electric power plants, self-producer hydro",637
+1694,Other kerosene - Imports,636
+578,Conventional crude oil - production,630
+794,"Fuelwood - Transformation in electricity, CHP and heat plants",627
+1782,Other oil products n.e.c. - Imports,626
+1415,Natural Gas (including LNG) - consumption by non-ferrous metals,621
+1230,Liquified Petroleum Gas (LPG) - Consumption by commerce and public services,617
+715,"Fuel oil - Consumption in agriculture, forestry and fishing",616
+824,Gas Oil/ Diesel Oil - Consumption by mining and quarrying ,613
+1882,Paraffin waxes - Total energy supply,612
+1707,Other kerosene - production from refineries,612
+1060,Nuclear – Main activity,612
+1706,Other kerosene - Production,612
+2189,Electricity - Other energy industry own use,609
+594,Crude petroleum - reserves,609
+709,"Fuel oil - Consumption by paper, pulp and print",608
+1795,Other oil products n.e.c. - Stock changes,606
+1873,Paraffin waxes - Final consumption,605
+2218,Hydro – Autoproducer,605
+1877,Paraffin waxes - Non-energy uses,605
+842,Gas Oil/ Diesel Oil - Energy industries own use,604
+1392,Naphtha - Stock changes,601
+829,"Gas Oil/ Diesel Oil - Consumption by paper, pulp and print",601
+1610,Other bituminous coal - consumption by other,600
+1001,From combustible fuels – Main activity – Heat plants,599
+1233,Liquified Petroleum Gas (LPG) - Consumption by industries not elsewhere specified,597
+749,Fuel oil - Transformation in electricity plants - main activity producers,594
+695,Fuel oil - Consumption by commerce and public services,590
+1422,Natural gas (including LNG) - consumption by transport,588
+293,Blast furnace gas - Total energy supply,587
+992,Hrad coal - consumption by iron and steel industry,587
+292,Blast Furnace Gas - Production,587
+85,Aviation gasoline - Imports,586
+1708,Other kerosene - Stock changes,585
+391,Brown coal - Total energy supply,583
+1381,Naphtha - Final consumption,582
+283,Blast Furnace Gas - Final energy consumption,581
+271,Blast Furnace Gas - Consumption by iron and steel,581
+273,"Blast Furnace Gas - Consumption by manufacturing, construction and non-fuel industry",581
+282,Blast furnace gas - final consumption,581
+1384,Naphtha - Non-energy uses,580
+831,Gas Oil/ Diesel Oil - Consumption by textile and leather ,577
+1437,Natural gas (including LNG) - losses,576
+1269,Lubricants - production from refineries,576
+1268,Lubricants - Production,576
+2201,Electricity - Own use by pump-storage plants,575
+1459,Natural Gas (including LNG) - transformation in CHP plants - main activity producers,573
+1779,Other oil products n.e.c. - Exports,572
+1414,Natural Gas (including LNG) - consumption by mining and quarrying,571
+1099,Industrial waste - Total energy supply,571
+1097,Industrial Waste - Production,571
+872,Gas Oil/ Diesel Oil - Transformation in electricity plants - main activity producers,565
+1463,Natural Gas (including LNG) - transformation in electricity plants - main activity producers,564
+1232,Liquified Petroleum Gas (LPG) - Consumption by food and tobacco,563
+294,Blast furnace gas - Transformation,561
+1018,Heat - Consumption by commerce and public services,561
+1380,Naphtha - Exports,561
+298,"Blast Furnace Gas - Transformation in electricity, CHP and heat plants",560
+701,Fuel oil - Consumption by iron and steel,560
+1448,Natural gas (including LNG) - own use by oil and gas extraction,560
+1406,Natural Gas (including LNG) - consumption by construction,559
+1671,Other kerosene - Consumption by households,559
+711,Fuel oil - Consumption by textile and leather ,557
+712,Fuel oil - Consumption by transport,557
+1043,Heat - Losses,556
+2193,Electricity - Own use by coal mines,556
+1859,Vegetal waste - Total energy supply,555
+489,Coke Oven Gas - Production,555
+1857,Vegetal waste - Production,555
+1201,"Liquefied petroleum gas (LPG) - Consumption in agriculture, forestry and fishing",555
+492,Coke Oven Gas - Total energy supply,555
+2034,Petroleum Coke - Final energy consumption,554
+1423,Natural Gas (including LNG) - consumption by transport equipment,554
+2225,Of which: Pumped hydro – Main activity,551
+627,Direct use of solar thermal heat - Consumption by other,551
+634,Direct use of solar thermal heat - Final energy consumption,551
+378,Brown coal - final consumption,550
+379,Brown coal - Final energy consumption,550
+2199,Electricity - Own use by oil and gas extraction,548
+702,Fuel oil - Consumption by machinery ,547
+179,Biogases - Final energy consumption,543
+178,Biogases - Final consumption,543
+478,Coke Oven Gas - Final energy consumption,541
+465,"Coke Oven Gas - Consumption by manufacturing, construction and non-fuel industry",541
+477,Coke Oven Gas - Final consumption,541
+422,Charcoal - Total energy supply,540
+463,Coke Oven Gas - Consumption by iron and steel,540
+2021,"Petroleum coke - Consumption by manufacturing, construction and non-fuel mining industry",540
+744,Fuel oil - Transformation in CHP plants - autoproducers,537
+985,Hard coal - transformation in coke ovens,534
+1449,Natural gas (including LNG) - own use by oil refineries,533
+536,Coking coal - total energy supply,533
+1234,Liquified Petroleum Gas (LPG) - Consumption by machinery,533
+1357,Municipal wastes - Total energy supply,531
+1603,Other bituminous coal - consumption by households,531
+741,Fuel oil - Transfers and recycled products,530
+2045,Petroleum coke - Stock changes,530
+1017,Heat - Consumption by chemical and petrochemical,529
+497,"Coke Oven Gas - Transformation in electricity, CHP and heat plants",529
+1355,Municipal Wastes - Production,529
+493,Coke Oven Gas - Transformation,529
+1057,Heat production - Autoproducer total,529
+2027,"Petroleum coke - Consumption by other manuf., const. and non-fuel min. ind.",528
+1852,Vegetal waste - Final energy consumption,524
+1851,Vegetal waste - Final consumption,524
+1424,Natural Gas (including LNG) - consumption by wood and wood products,523
+1237,Liquified Petroleum Gas (LPG) - Consumption by non-metallic minerals,522
+1624,Other bituminous coal - exports,522
+1035,Heat - Consumption not elsewhere specified (industry),517
+2257,White spirit and special boiling point industrial spirits - production from refineries,517
+2256,White spirit and special boiling point industrial spirits - Production,517
+485,Coke Oven Gas - Own use by coke ovens,514
+476,Coke Oven Gas - Energy industries own use,514
+745,Fuel oil - Transformation in CHP plants - main activity producers,513
+834,Gas Oil/ Diesel Oil - Consumption by wood and wood products ,513
+2094,Refinery gas - Transformation,506
+365,"Brown coal - consumption by other manuf., const. and non-fuel ind.",506
+360,"Brown coal - consumption by manufacturing, construction and non-fuel mining industry",506
+1383,Naphtha - Imports,506
+698,Fuel oil - Consumption by domestic navigation,505
+537,Coking coal - transformation,505
+543,Coking coal - transformation in coke ovens,505
+1180,Lignite - Total energy supply,501
+2044,Petroleum coke - production from refineries,497
+2043,Petroleum coke - Production,497
+417,Charcoal - Final consumption,495
+418,Charcoal - Final energy consumption,495
+412,Charcoal - Consumption by other,494
+351,Brown coal - changes in stocks,493
+621,Direct use of solar thermal heat - Consumption by households,492
+833,Gas Oil/ Diesel Oil - Consumption by transport equipment ,492
+2060,Feedstocks - stock changes,492
+825,Gas Oil/ Diesel Oil - Consumption by non-ferrous metals ,492
+2097,"Refinery gas - Transformation in electricity, CHP and heat plants",491
+705,Fuel oil - Consumption by non-ferrous metals ,490
+1358,Municipal Wastes - Transformation,488
+1361,"Municipal Wastes - Transformation in electricity, CHP and heat plants",488
+1462,Natural Gas (including LNG) - transformation in electricity plants - autoproducers,487
+714,Fuel oil - Consumption by wood and wood products ,486
+668,"Electricity - total net installed capacity of electric power plants, solar",486
+166,Biogases - Consumption by other,485
+528,Coking coal - imports,485
+398,"Brown coal - Transformation in electricity, CHP and heat plants",484
+1167,Lignite - Final consumption,484
+392,Brown coal - transformation,484
+1168,Lignite - Final energy consumption,484
+1210,Liquefied petroleum gas (LPG) - Non-energy uses,483
+1875,Paraffin waxes - Imports,482
+938,Hard coal - consumption by chemical and petrochemical industry,481
+190,Biogases - Transformation in CHP plants - autoproducers,480
+568,Conventional crude oil - exports,479
+988,Hard coal - transformation in electricity plants - main activity producers,479
+2058,Feedstocks - imports,478
+1650,Other bituminous coal - transformation in main activity producer electricity plants,478
+1691,Other kerosene - Exports,475
+640,Electricity generating capacity - Pumped hydro - Total,474
+864,Gas Oil/ Diesel Oil - Transfers and recycled products,474
+639,Electricity generating capacity - Pumped hydro - Main activity producers,474
+1323,Motor Gasoline - Transfers and recycled products,472
+2258,White spirit and special boiling point industrial spirits - Stock changes,471
+1192,Liquefied petroleum gas (LPG) - consumption by chemical and petrochemical,471
+1797,Other oil products n.e.c. - Transfers and recycled products,471
+667,"Electricity - total net installed capacity of electric power plants, nuclear",468
+1509,Electricity - total nuclear production,468
+650,"Electricity - net installed capacity of electric power plants, public nuclear",468
+535,Coking coal - stock changes,466
+941,Hard coal - consumption by food and tobacco industry,464
+380,Brown coal - imports,461
+2250,White spirit and special boiling point industrial spirits - Exports,460
+755,Fuelwood - Consumption by commerce and public services,459
+704,Fuel oil - Consumption by mining and quarrying ,458
+1150,"Lignite - Consumption by manufacturing, construction and non-fuel industry",458
+1155,"Lignite - Consumption by other manuf., const. and non-fuel ind.",458
+2032,Petroleum coke - Exports,456
+2062,Feedstocks - transfers and recycled products,455
+1225,Liquefied petroleum gas (LPG) - Transformation,454
+1467,Natural Gas (including LNG) - transformation in heat plants - main activity producers,453
+419,Charcoal - Imports,453
+2106,Electricity - total solar production,453
+1426,Natural gas (including LNG) - consumption in road,447
+1604,Other bituminous coal - consumption by iron and steel industry,447
+1195,Liquefied petroleum gas (LPG) - consumption by iron and steel industry,446
+1087,Industrial waste - Final consumption,444
+1088,Industrial Waste - Final energy consumption,444
+1073,"Industrial Waste - Consumption by manufacturing, construction and non-fuel industry",442
+1289,Motor Gasoline - Consumption by other,441
+364,Brown coal - consumption by Other,440
+1100,Industrial Waste - Transformation,439
+162,"Biogases - Consumption by manufacturing, construction and non-fuel mining industry",438
+1205,Liquefied petroleum gas (LPG) - Energy industries own use,437
+1016,"Heat - Consumption by agriculture, forestry and fishing",435
+1238,"Liquified Petroleum Gas (LPG) - Consumption by paper, pulp and print",435
+1104,"Industrial waste - Transformation in electricity, CHP and heat plants",434
+1078,"Industrial Waste - Consumption by other manuf., const. and non-fuel ind.",434
+780,Fuelwood - Imports,434
+1501,Natural gas liquids - Total energy supply,431
+2031,Petroleum coke - Energy industries own use,429
+167,"Biogases - Consumption by other manuf., const. and non-fuel ind.",429
+2042,Petroleum coke - Own use by oil refineries,428
+2036,Petroleum coke - Non-energy uses,428
+1020,Heat - Consumption by food and tobacco,427
+792,Fuelwood - Transformation in CHP plants - autoproducers,426
+1503,Natural gas liquids - Transformation,425
+389,Brown coal - production,425
+2024,Petroleum Coke - Consumption by non-metallic minerals ,422
+1430,Natural gas (including LNG) - exports,422
+5,Additives and Oxygenates - Total energy supply,422
+420,Charcoal - Production,421
+643,Electricity generating capacity - Solar PV - Total,420
+1602,Other bituminous coal - consumption by food and tobacco industry,419
+1031,"Heat - Consumption by paper, pulp and print",418
+1674,"Other kerosene - Consumption by manufacturing, construction and non-fuel industry",418
+771,Fuelwood - Consumption by wood and wood products ,414
+1300,"Motor Gasoline - Consumption in agriculture, forestry and fishing",414
+1879,Paraffin waxes - Production,413
+1599,Other bituminous coal - consumption by chemical and petrochemical industry,413
+1880,Paraffin waxes - production from refineries,413
+1679,"Other kerosene - Consumption by other manuf., const. and non-fuel ind.",413
+1179,Lignite - Stock changes,410
+281,Blast Furnace Gas - Energy industries own use,410
+696,Fuel oil - Consumption by construction ,409
+615,Direct use of geothermal heat - Final energy consumption,408
+607,Direct use of geothermal heat - Consumption by other,408
+156,Biogases - Consumption by commerce and public services,408
+772,"Fuelwood - Consumption in agriculture, forestry and fishing",407
+1187,"Lignite - Transformation in electricity, CHP and heat plants",405
+1778,Other oil products n.e.c. - Energy industries own use,405
+1181,Lignite - Transformation,405
+2180,Electricity - Consumption not elsewhere specified (transport),405
+976,Hard coal - production,403
+1032,Heat - Consumption by textile and leather,402
+1231,Liquified Petroleum Gas (LPG) - Consumption by construction,401
+1022,Heat - Consumption by iron and steel,401
+2223,Nuclear – Main activity – Electricity plants,398
+289,Blast Furnace Gas - Own use by coke ovens,397
+416,Charcoal - Exports,396
+1499,Natural gas liquids - Production,395
+1037,Heat - Energy industries own use,391
+1024,Heat - Consumption by machinery,391
+357,Brown coal - consumption by households,389
+984,Hard coal - transformation in CHP plants - main activity producers,388
+90,Aviation gasoline - Stock changes,388
+1013,Geothermal – Main activity,387
+952,"Hard coal - consumption by paper, pulp and print",386
+1177,Lignite - Production,385
+8,Additives and Oxygenates - Transformation in oil refineries,384
+939,Hard coal - consumption by commerce and public services,384
+1236,Liquified Petroleum Gas (LPG) - Consumption by non-ferrous metals,384
+7,Additives and Oxygenates - Transformation,384
+363,Brown coal - Consumption by non-metallic minerals industry,384
+1649,Other bituminous coal - transformation in main activity producer CHP plants,381
+339,Brown coal briquettes - Total energy supply,381
+773,Fuelwood - Consumption not elsewhere specified (industry),380
+858,Gas Oil/ Diesel Oil - Own use by oil refineries,380
+777,Fuelwood - Exports,379
+1710,Other kerosene - Transfers and recycled products,379
+1612,"Other bituminous coal - consumption by paper, pulp and print",378
+148,Biodiesel - Total energy supply,377
+998,From combustible fuels – Autoproducer – Heat plants,373
+2194,Electricity - Own use by coke ovens,373
+401,Brown coal - Transformation in main activity electricity plants,373
+1135,Kerosene-type Jet Fuel - Transfers and recycled products,372
+1154,Lignite - Consumption by other,372
+331,Brown Coal Briquettes - Final energy consumption,371
+330,Brown coal briquettes - final consumption,371
+251,"Black Liquor - Consumption by other manuf., const. and non-fuel ind.",370
+250,"Black Liquor - Consumption by manufacturing, construction and non-fuel mining industry",370
+258,Black Liquor - Production,370
+959,"Hard coal - consumption in agriculture, forestry and fishing",370
+256,Black Liquor - Final energy consumption,370
+255,Black Liquor - Final consumption,370
+259,Black Liquor - Total energy supply,370
+1028,Heat - Consumption by non-metallic minerals,370
+138,Biodiesel - Final consumption,369
+139,Biodiesel - Final energy consumption,369
+1636,Other bituminous coal - production,369
+129,Biodiesel - Consumption by road,368
+132,Biodiesel - Consumption in transport,368
+1842,Vegetal waste - Consumption by other,367
+2095,Refinery Gas - Transformation in CHP plants - autoproducers,366
+983,Hard coal - transformation in CHP plants - autoproducers,365
+1241,Liquified Petroleum Gas (LPG) - Consumption by transport equipment,365
+871,Gas Oil/ Diesel Oil - Transformation in electricity plants - autoproducers,364
+752,Fuel oil - Transformation in heat plants - main activity producers,364
+1619,Other bituminous coal - consumption in commerce and public services,362
+961,Hard coal - consumption not elsewhere specified (industry),361
+2080,Refinery gas - Final consumption,360
+791,Fuelwood - Transformation in charcoal plants,360
+1169,Lignite - Imports,359
+193,Biogases - Transformation in electricity plants - autoproducers,359
+146,Biodiesel - Production,357
+1792,Other oil products n.e.c. - Own use by oil refineries,357
+2059,Feedstocks - Receipts from other sources,349
+1285,"Motor Gasoline - Consumption by manufacturing, construction and non-fuel mining industry",348
+316,Brown coal briquettes - consumption by Other,347
+494,Coke Oven Gas - Transformation in CHP plants - autoproducers,347
+713,Fuel oil - Consumption by transport equipment ,345
+1291,"Motor Gasoline - Consumption by other manuf., const. and non-fuel min. ind.",345
+1872,Paraffin waxes - Exports,344
+1218,Liquefied petroleum gas (LPG) - Own use by oil refineries,344
+1881,Paraffin waxes - Stock changes,343
+1034,Heat - Consumption by wood and wood products,343
+1,Additives and Oxygenates - Imports,342
+757,Fuelwood - Consumption by food and tobacco ,342
+1507,Natural gas liquids - Transformation in oil refineries,341
+1272,Lubricants - Transfers and recycled products,341
+1641,Other bituminous coal - transformation in autoproducer CHP plants,341
+1608,Other bituminous coal - consumption by non-ferrous metals industry,340
+1837,Vegetal waste - Consumption by households,339
+946,Hard coal - consumption by non-ferrous metals industry,337
+1153,Lignite - Consumption by non-metallic minerals industry,336
+1395,Naphtha - Transformation,335
+943,Hard coal - consumption by machinery industry,334
+700,Fuel oil - Consumption by households,331
+1394,Naphtha - Transfers and recycled products,331
+295,Blast Furnace Gas - Transformation in CHP plants - autoproducers,331
+1620,Other bituminous coal - consumption not elsewhere specified (industry),330
+1147,Lignite - Consumption by households,330
+61,Anthracite - Total energy supply,329
+1076,Industrial Waste - Consumption by non-metallic minerals ,328
+748,Fuel oil - Transformation in electricity plants - autoproducers,328
+954,Hard coal - consumption by textile and leather industry,326
+599,Direct use of geothermal heat - Consumption by commerce and public services,326
+2227,Solar – Main activity,326
+868,Gas Oil/ Diesel Oil - Transformation in CHP plants - main activity producers,325
+1420,Natural Gas (including LNG) - consumption by pipeline transport,325
+618,Direct use of solar thermal heat - Consumption by commerce and public services,323
+309,Brown coal briquettes - consumption by households,320
+658,"Electricity - net installed capacity of electric power plants, self-producer solar",319
+849,Gas Oil/ Diesel Oil - Non-energy uses,317
+962,Hard coal - energy industries own use,316
+1033,Heat - Consumption by transport equipment,316
+874,Gas Oil/ Diesel Oil - Transformation in heat plants - main activity producers,314
+2229,Solar photovoltaic – Main activity,314
+1240,Liquified Petroleum Gas (LPG) - Consumption by textile and leather,314
+651,Electricity - net installed capacity of electric power plants public solar,313
+377,Brown coal - exports,312
+793,Fuelwood - Transformation in CHP plants - main activity producers,312
+1190,Lignite - Transformation in main activity electricity plants,311
+1435,Natural gas (including LNG) - flared and vented,307
+51,Anthracite - imports,307
+1235,Liquified Petroleum Gas (LPG) - Consumption by mining and quarrying,306
+1605,Other bituminous coal - consumption by machinery industry,306
+642,Electricity generating capacity - Solar PV - Main activity producers,305
+767,"Fuelwood - Consumption by paper, pulp and print",304
+410,Charcoal - Consumption by households,304
+981,Hard coal - transformation in blast furnaces,304
+194,Biogases - Transformation in electricity plants - main activity producers,303
+2179,Electricity - Consumption not elsewhere specified (other),302
+1056,Heat - Own use by oil refineries,302
+1101,Industrial Waste - Transformation in CHP plants - autoproducers,298
+284,Blast Furnace Gas - Losses,297
+1840,"Vegetal waste - Consumption by manufacturing, construction and non-fuel mining industry",295
+158,Biogases - Consumption by food and tobacco ,295
+1843,"Vegetal waste - Consumption by other manufacturing, construction and non-fuel mining industry",293
+1224,Liquefied petroleum gas (LPG) - Transfers and recycled products,292
+218,Biogasoline - Total energy supply,291
+840,Gas Oil/ Diesel Oil - Consumption not elsewhere specified (other),291
+1614,Other bituminous coal - consumption by textile and leather industry,291
+923,Gasworks Gas - Total energy supply,291
+525,Coking coal - exports,290
+211,Biogasoline - Final consumption,289
+2170,Electricity - Consumption by pipeline transport,289
+205,Biogasoline - Consumption by road,289
+206,Biogasoline - consumption by transport,289
+212,Biogasoline - Final energy consumption,289
+299,Blast Furnace Gas - Transformation in electricity plants - autoproducers,288
+760,Fuelwood - Consumption by machinery ,286
+798,Fuelwood - Transformation in heat plants - main activity producers,285
+1403,Naphtha - Transformation in petrochemical plants,285
+1466,Natural Gas (including LNG) - transformation in heat plants - autoproducers,284
+867,Gas Oil/ Diesel Oil - Transformation in CHP plants - autoproducers,283
+1781,Other oil products n.e.c. - Final energy consumption,282
+1598,"Other bituminous coal - consumption by agriculture, forestry and fishing",281
+764,Fuelwood - Consumption by non-metallic minerals ,281
+1657,Other hydrocarbons - total energy supply,281
+191,Biogases - Transformation in CHP plants - main activity producers,279
+332,Brown coal briquettes - imports,276
+1434,Natural gas (including LNG) - Flared,273
+49,Anthracite - Final consumption,273
+87,Aviation gasoline - Production,273
+50,Anthracite - final energy consumption,273
+1536,Of which: biodiesel - Final energy consumption,272
+2237,Uranium - production,272
+1535,Of which: biodiesel - Final consumption,272
+1543,Of which: biodiesel - Total energy supply,271
+1526,Of which: biodiesel - Consumption by road,271
+470,"Coke Oven Gas - Consumption by other manuf., const. and non-fuel ind.",271
+1529,Of which: biodiesel - Consumption in transport,271
+89,Aviation gasoline - production from refineries,268
+2226,Solar – Autoproducer,267
+400,Brown coal - Transformation in main activity CHP plants,266
+241,Bitumen - Transfers and recycled products,266
+1026,Heat - Consumption by mining and quarrying,266
+2081,Refinery Gas - Final energy consumption,265
+2072,"Refinery gas - consumption by manufacturing, construction and non-fuel mining industry",265
+660,"Electricity - net installed capacity of electric power plants, self-producer wind",265
+1959,Peat - production,264
+1541,Of which: biodiesel - Receipts from other sources,264
+1948,Peat (for fuel use) - Total energy supply,264
+728,Fuel oil - Non-energy uses,263
+1166,Lignite - Exports,262
+1226,"Liquefied petroleum gas (LPG) - Transformation in electricity, CHP and heat plants",262
+795,Fuelwood - Transformation in electricity plants - autoproducers,261
+252,"Black Liquor - Consumption by paper, pulp and print",259
+376,Brown coal - energy industries own use,258
+82,Aviation gasoline - Exports,258
+857,Gas Oil/ Diesel Oil - Own use by oil and gas extraction,258
+861,Gas Oil/ Diesel Oil - Receipts from other sources,258
+2228,Solar photovoltaic – Autoproducer,257
+1944,Peat - final energy consumption,257
+1798,Other oil products n.e.c. - Transformation,257
+533,Coking coal - production,257
+1946,Peat (for fuel use) - final consumption,257
+338,Brown coal briquettes - stock changes,256
+4,Additives and Oxygenates - Stock changes,256
+2143,Sub-bituminous coal - Total energy supply,255
+1242,Liquified Petroleum Gas (LPG) - Consumption by wood and wood products,255
+1360,Municipal Wastes - Transformation in CHP plants - main activity producers,255
+1568,Of which: biogasoline - Total energy supply,253
+479,Coke Oven Gas - Losses,253
+991,Hard coal - transformation in heat plants - main activity producers,253
+1562,Of which: biogasoline - Final energy consumption,253
+1555,Of which: biogasoline - Consumption by road,253
+1764,"Other oil products n.e.c. - Consumption by manufacturing, construction and non-fuel mining industry",253
+1561,Of which: biogasoline - Final consumption,253
+1556,Of which: biogasoline - Consumption in transport,253
+2065,Refinery gas - consumption by chemical and petrochemical,252
+140,Biodiesel - Imports,252
+2232,Wind – Autoproducer,252
+498,Coke Oven Gas - Transformation in electricity plants - autoproducers,252
+1004,From other sources – Autoproducer,252
+353,Brown coal - Consumption by commerce and public services,251
+1914,Patent fuel - Total energy supply,248
+1666,Other kerosene - Consumption by commerce and public services,247
+754,Fuelwood - Consumption by chemical and petrochemical,246
+912,Gasworks Gas - Final energy consumption,245
+751,Fuel oil - Transformation in heat plants - autoproducers,245
+911,Gasworks Gas - Final consumption,245
+1688,Other kerosene - Consumption not elsewhere specified (industry),244
+33,"Anthracite - consumption by manufacturing, construction and non-fuel industry",243
+393,Brown coal - Transformation in autoproducer CHP plants,243
+1351,Municipal Wastes - Final energy consumption,241
+1045,Heat - Other energy industry own use,241
+1350,Municipal wastes - final consumption,241
+356,"Brown coal - Consumption by food, beverage and tobacco industry",239
+756,Fuelwood - Consumption by construction ,239
+641,Electricity generating capacity - Solar PV - Autoproducers,239
+1019,Heat - Consumption by construction,239
+768,Fuelwood - Consumption by textile and leather ,238
+1623,Other bituminous coal - energy industries own use,238
+958,Hard coal - consumption for non-energy uses,238
+1860,Vegetal waste - Transformation,238
+1685,"Other kerosene - Consumption in agriculture, forestry and fishing",238
+1455,Natural gas (including LNG) - total resources,238
+526,Coking coal - final consumption,236
+1250,Liquified Petroleum Gas (LPG) - Transformation in petrochemical plants,236
+1907,Patent fuel - Final consumption,235
+1908,Patent fuel - Final energy consumption,235
+1182,Lignite - Transformation in autoproducer CHP plants,235
+1189,Lignite - Transformation in main activity CHP plants,235
+970,Hard coal - own use by coal mines,233
+1651,Other bituminous coal - transformation in main activity producer heat plants,233
+352,Brown coal - consumption by chemical and petrochemical industry,231
+1500,Natural gas liquids - Stock changes,231
+1027,Heat - Consumption by non-ferrous metals,231
+373,Brown coal - Consumption not elsewhere specified (industry),231
+1320,Motor Gasoline - Receipts from other sources,230
+1566,Of which: biogasoline - Receipts from other sources,230
+312,"Brown coal briquettes - consumption by manufacturing, construction and non-fuel mining industry",230
+2191,Electricity - Own use by briquetting plants,230
+853,Gas Oil/ Diesel Oil - Own use by coal mines,229
+216,Biogasoline - production,229
+1066,Industrial Waste - Consumption by chemical and petrochemical,229
+317,"Brown coal briquettes - Consumption by other manuf., const. and non-fuel ind.",229
+1897,Patent fuel - Consumption by other,228
+1863,"Vegetal waste - Transformation in electricity, CHP and heat plants",228
+598,"Direct use of geothermal heat - Consumption by agriculture, forestry and fishing",227
+1144,Lignite - Consumption by commerce and public services,227
+1146,Lignite - Consumption by food and tobacco industry,226
+2048,Petroleum coke - Transformation,226
+1440,Natural gas (including LNG) - other energy industry own use,226
+1363,Municipal Wastes - Transformation in electricity plants - main activity producers,225
+213,Biogasoline - imports,225
+1933,Peat - consumption by other,224
+2136,Sub-bituminous coal - Final consumption,223
+797,Fuelwood - Transformation in heat plants - autoproducers,223
+987,Hard coal - transformation in electricity plants - autoproducers,223
+2137,Sub-bituminous coal - Final energy consumption,223
+1359,Municipal Wastes - Transformation in CHP plants - autoproducers,221
+945,Hard coal - consumption by mining and quarrying industry,220
+2120,"Sub-bituminous coal - Consumption by manufacturing, construction and non-fuel industry",219
+371,"Brown coal - consumption in agriculture, forestry and fishing",218
+1928,Peat - consumption by households,217
+648,"Electricity - net installed capacity of electric power plants, public geothermal",217
+1659,Other hydrocarbons - transformation,217
+663,"Electricity - total net installed capacity of electric power plants, geothermal",217
+788,Fuelwood - Stock changes,216
+2,Additives and Oxygenates - Production,216
+1277,Motor Gasoline - Consumption by construction ,215
+1362,Municipal Wastes - Transformation in electricity plants - autoproducers,215
+1260,Lubricants - International marine bunkers,214
+527,Coking coal - final energy consumption,214
+386,Brown coal - own use by coal mines,213
+2144,Sub-bituminous coal - Transformation,213
+1036,Heat - Consumption not elsewhere specified (other),213
+1496,Natural gas liquids - Other transformation,213
+1162,Lignite - Consumption not elsewhere specified (industry),213
+512,"Coking coal - consumption by manufacturing, construction and non-fuel industry",213
+1607,Other bituminous coal - consumption by mining and quarrying industry,212
+2125,"Sub-bituminous coal - Consumption by other manuf., const. and non-fuel ind.",212
+154,"Biogases - Consumption by agriculture, forestry and fishing",212
+900,Gasworks Gas - Consumption by other,212
+602,Direct use of geothermal heat - Consumption by households,212
+893,Gasworks Gas - Consumption by households,211
+1445,"Natural gas (including LNG) - own use by electricity, heat and CHP plants",210
+933,Electricity - total geothermal production,209
+2217,Geothermal – Main activity – Electricity plants,209
+719,Fuel oil - Consumption not elsewhere specified (other),208
+1642,Other bituminous coal - transformation in autoproducer electricity plants,208
+1365,Municipal Wastes - Transformation in heat plants - main activity producers,206
+60,Anthracite - stock changes,205
+2150,"Sub-bituminous coal - Transformation in electricity, CHP and heat plants",204
+1427,Natural gas (including LNG) - consumption not elsewhere specified (other),204
+137,Biodiesel - Exports,203
+448,Coal Tar - Total energy supply,203
+445,Coal Tar - Production,203
+1143,Lignite - Consumption by chemical and petrochemical industry,201
+796,Fuelwood - Transformation in electricity plants - main activity producers,201
+2142,Sub-bituminous coal - Stock changes,201
+1493,Natural gas liquids - Imports,200
+1441,Natural gas (including LNG) - other transformation,199
+2260,White spirit and special boiling point industrial spirits - Transfers and recycled products,197
+2057,Feedstocks - exports,197
+1644,Other bituminous coal - transformation in blast furnaces,196
+1961,Peat - transformation,196
+1891,Patent fuel - consumption by households,196
+693,Falling water - total hydraulic resources,196
+896,"Gasworks Gas - Consumption by manufacturing, construction and non-fuel industry",195
+1909,Patent fuel - imports,195
+359,Brown coal - Consumption by machinery industry,194
+855,"Gas Oil/ Diesel Oil - Own use by electricity, heat and CHP plants",194
+415,Charcoal - Consumption not elsewhere specified (other),191
+1443,Natural gas (including LNG) - own use by coal mines,190
+1165,Lignite - Energy industries own use,190
+1083,Industrial Waste - Consumption not elsewhere specified (industry),190
+1823,Other recovered gases - Production,189
+1824,Other recovered gases - Total energy supply,189
+1698,Other kerosene - Non-energy uses,188
+1113,Kerosene-type Jet Fuel - Consumption by other,188
+1960,Peat - stock changes,187
+300,Blast Furnace Gas - Transformation in electricity plants - main activity producers,187
+1050,Heat - Own use by coal mines,187
+675,Ethane - Consumption for non-energy uses,186
+678,Ethane - Final consumption,186
+1631,Other bituminous coal - own use by coal mines,186
+2172,Electricity - Consumption by road,185
+1801,"Other oil products n.e.c. - Transformation in electricity, CHP and heat plants",185
+296,Blast Furnace Gas - Transformation in CHP plants - main activity producers,185
+1340,Municipal Wastes - Consumption by other,184
+2196,Electricity - Own use by gas works,184
+875,Gas Oil/ Diesel Oil - Transformation in petrochemical plants,184
+196,Biogases - Transformation in heat plants - main activity producers,183
+1770,"Other oil products n.e.c. - Consumption by other manuf., const. and non-fuel min. ind.",183
+366,"Brown coal - Consumption by paper, pulp and print",183
+329,Brown coal briquettes - exports,183
+762,Fuelwood - Consumption by mining and quarrying ,182
+396,Brown coal - transformation in briquetting plants,182
+2053,"Petroleum coke - Transformation in electricity, CHP and heat plants",180
+510,Coking coal - consumption by iron and steel,180
+1664,Other hydrocarbons - transformation in oil refineries,180
+38,"Anthracite - consumption by other manuf., const. and non-fuel ind.",179
+1444,Natural gas (including LNG) - own use by coke ovens,178
+174,Biogases - Consumption not elsewhere specified (industry),178
+1105,Industrial Waste - Transformation in electricity plants - autoproducers,176
+1198,Liquefied petroleum gas (LPG) - Consumption by other consumers not elsewhere specified,176
+890,Gasworks Gas - Consumption by commerce and public services,174
+1102,Industrial Waste - Transformation in CHP plants - main activity producers,174
+1655,Other hydrocarbons - receipts from other sources,173
+147,Biodiesel - Stock changes,173
+1015,Geothermal – Main activity – Heat plants,172
+2204,Electricity - Used for electric boilers,171
+759,Fuelwood - Consumption by iron and steel,170
+1227,Liquefied petroleum gas (LPG) - Transformation in gas works,170
+1007,From other sources – Main activity,169
+1279,Motor Gasoline - Consumption by domestic navigation,169
+2151,Sub-bituminous coal - Transformation in main activity electricity plants,169
+499,Coke Oven Gas - Transformation in electricity plants - main activity producers,168
+940,Hard coal - consumption by construction industry,168
+1002,From electric boilers – Main activity,168
+1220,Liquefied petroleum gas (LPG) - production from plants,167
+436,Coal Tar - Final consumption,165
+1276,Motor Gasoline - Consumption by commerce and public services,165
+567,Conventional crude oil - energy industries own use,165
+990,Hard coal - transformation in heat plants - autoproducers,165
+2083,Refinery gas - Non-energy uses,165
+354,Brown coal - Consumption by construction industry,165
+1331,Municipal Wastes - Consumption by commerce and public services,165
+2093,Refinery gas - Transfers and recycled products,163
+1149,Lignite - Consumption by machinery industry,163
+1965,"Peat - transformation in electricity, CHP and heat plants",163
+770,Fuelwood - Consumption by transport equipment ,162
+48,Anthracite - exports,162
+367,Brown coal - Consumption by textile and leather,162
+1142,"Lignite - Consumption by agriculture, forestry and fishing",162
+336,Brown coal briquettes - production,162
+776,Fuelwood - Energy industries own use,161
+1061,Nuclear – Main activity – CHP plants,161
+901,"Gasworks Gas - Consumption by other manuf., const. and non-fuel ind.",160
+687,Ethane - Total energy supply,160
+2019,Petroleum coke - Consumption by iron and steel,160
+921,Gasworks Gas - Receipts from other sources,160
+914,Gasworks Gas - Losses,160
+949,Hard coal - consumption by other consumers,159
+955,Hard coal - consumption by transport,159
+2140,Sub-bituminous coal - Production,158
+2138,Sub-bituminous coal - Imports,158
+1600,Other bituminous coal - consumption by construction industry,158
+873,Gas Oil/ Diesel Oil - Transformation in heat plants - autoproducers,155
+1059,Heat - Used for electricity production,154
+1913,Patent fuel - stock changes,154
+1490,Natural gas liquids - Exports,154
+1185,Lignite - Transformation in briquetting plants,153
+168,"Biogases - Consumption by paper, pulp and print",153
+2123,Sub-bituminous coal - Consumption by non-metallic minerals industry,153
+953,Hard coal - consumption by rail,152
+1145,Lignite - Consumption by construction,152
+1302,Motor Gasoline - Energy industries own use,152
+306,Brown Coal Briquettes - Consumption by commerce and public services,152
+1930,"Peat - consumption by manufacturing, construction and non-fuel industry",151
+1158,Lignite - Consumption by textile and leather,151
+1119,Kerosene-type Jet Fuel - Consumption not elsewhere specified (other),151
+2124,Sub-bituminous coal - Consumption by other,151
+495,Coke Oven Gas - Transformation in CHP plants - main activity producers,151
+404,Lignite brown coal- recoverable resources,151
+1943,Peat - exports,150
+1341,"Municipal Wastes - Consumption by other manuf., const. and non-fuel ind.",149
+402,Brown coal - Transformation in main activity heat plants,149
+1336,"Municipal Wastes - Consumption by manufacturing, construction and non-fuel industry",149
+483,Coke Oven Gas - Own use by blast furnaces,149
+733,"Fuel oil - Own use by electricity, heat and CHP plants",149
+1906,Patent fuel - exports,149
+1934,"Peat - consumption by other manuf., const. and non-fuel ind.",149
+2098,Refinery Gas - Transformation in electricity plants - autoproducers,149
+1643,Other bituminous coal - transformation in autoproducer heat plants,148
+358,Brown coal - consumption by iron and steel industry,148
+967,Hard coal - losses,147
+637,Electricity generating capacity - From other sources - Total,147
+1174,Lignite - Own use by coal mines,147
+287,Blast Furnace Gas - Own use by blast furnaces,146
+683,Ethane - Production,146
+1077,Industrial Waste - Consumption by other,146
+361,Brown coal - Consumption by mining and quarrying industry,146
+841,Gas Oil/ Diesel Oil - Consumption not elsewhere specified (transport),145
+920,Gasworks Gas - Production,144
+458,Coke Oven Gas - Consumption by chemical and petrochemical,143
+1108,Industrial Waste - Transformation in heat plants - main activity producers,143
+1747,Other liquid biofuels - Total energy supply,142
+1962,Peat - transformation in briquetting plants,142
+1156,"Lignite - Consumption by paper, pulp and print",142
+1912,Patent fuel - production,142
+1828,"Other recovered gases - Transformation in electricity, CHP and heat plants",142
+577,Conventional crude oil - own use by oil and gas extraction,142
+1825,Other recovered gases - Transformation,142
+92,Aviation gasoline - Transfers and recycled products,141
+395,Brown coal - Transformation in autoproducer heat plants,141
+1379,Naphtha - Energy industries own use,140
+909,Gasworks Gas - Energy industries own use,140
+31,Anthracite - consumption by iron and steel,140
+217,Biogasoline - stock changes,138
+956,Hard coal - consumption by transport equipment industry,137
+2198,Electricity - Own use by nuclear fuel extraction and processing,137
+850,Gas Oil/ Diesel Oil  - Other energy industry own use,137
+1191,Lignite - Transformation in main activity heat plants,137
+468,Coke Oven Gas - Consumption by non-metallic minerals ,137
+1673,Other kerosene - Consumption by machinery ,136
+2018,Petroleum Coke - Consumption by industries not elsewhere specified,136
+1756,Other oil products n.e.c. - Consumption by chemical and petrochemical,136
+263,"Black Liquor - Transformation in electricity, CHP and heat plants",136
+260,Black Liquor - Transformation,136
+1388,Naphtha - Own use by oil refineries,136
+362,Brown coal - Consumption by non-ferrous metals industry,135
+1431,Natural gas (including LNG) - extraction loss shrinkage,134
+1107,Industrial Waste - Transformation in heat plants - autoproducers,134
+1067,Industrial Waste - Consumption by commerce and public services,133
+1616,Other bituminous coal - consumption by transport equipment industry,132
+210,Biogasoline - exports,132
+1746,Other liquid biofuels - Production,131
+1151,Lignite - Consumption by mining and quarrying industry,131
+1005,From other sources – Autoproducer – CHP plants,131
+1682,Other kerosene - Consumption by transport,129
+2117,Sub-bituminous coal - Consumption by households,129
+277,"Blast Furnace Gas - Consumption by other manuf., const. and non-fuel ind.",128
+635,Electricity generating capacity - From other sources - Autoproducers,128
+1079,"Industrial Waste - Consumption by paper, pulp and print",128
+957,Hard coal - consumption by wood and wood products industry,127
+1468,Natural gas (including LNG) - Vented,127
+1807,Other oil products n.e.c. - Transformation in petrochemical plants,127
+684,Ethane - Production from plants,126
+774,Fuelwood - Consumption not elsewhere specified (other),126
+2105,Refinery Gas - Transformation in petrochemical plants,126
+340,Brown coal briquettes - Transformation,125
+155,Biogases - Consumption by chemical and petrochemical,125
+381,Brown coal - losses,125
+1003,From heat pumps – Main activity,125
+1364,Municipal Wastes - Transformation in heat plants - autoproducers,125
+935,Coal - recoverable reserves,125
+1282,Motor Gasoline - Consumption by industries not elsewhere specified,125
+1617,Other bituminous coal - consumption by wood and wood products industry,124
+1665,Other kerosene - Consumption by chemical and petrochemical,124
+1883,Paraffin waxes - Transfers and recycled products,123
+1106,Industrial Waste - Transformation in electricity plants - main activity producers,122
+1689,Other kerosene - Consumption not elsewhere specified (other),122
+924,Gasworks Gas - Transformation,120
+1816,Other recovered gases - Final consumption,120
+605,"Direct use of geothermal heat - Consumption by manufacturing, construction and non-fuel mining industry",120
+1810,"Other recovered gases - Consumption by manufacturing, construction and non-fuel mining industry",120
+2205,Electricity - Used for heat pumps,120
+1817,Other recovered gases - Final energy consumption,120
+608,"Direct use of geothermal heat - Consumption by other manuf., const. and non-fuel ind.",120
+1069,Industrial Waste - Consumption by food and tobacco ,120
+0,Additives and Oxygenates - Exports,120
+982,Hard coal - transformation in briquetting plants,118
+1809,Other recovered gases - Consumption by iron and steel,118
+848,Gas Oil/ Diesel Oil - Losses,118
+1502,Natural gas liquids - Transfers and recycled products,117
+887,Gasoline-type jet fuel - Total energy supply,117
+36,Anthracite - consumption by non-metallic minerals,117
+301,Blast Furnace Gas - Transformation in heat plants - autoproducers,117
+345,"Brown coal briquettes - Transformation in electricity, CHP and heat plants",117
+1428,Natural gas (including LNG) - consumption not elsewhere specified (transport),117
+435,Coal Tar - Exports,117
+2004,Peat products - production,115
+2006,Peat products - Total energy supply,115
+1072,Industrial Waste - Consumption by machinery ,114
+1370,"Naphtha - Consumption by manufacturing, construction and non-fuel mining industry",114
+1382,Naphtha - Final energy consumption,114
+1148,Lignite - Consumption by iron and steel industry,114
+977,Hard coal - receipts from other sources,114
+1184,Lignite - Transformation in autoproducer heat plants,113
+1618,Other bituminous coal - consumption for non-energy uses,113
+1637,Other bituminous coal - receipts from other sources,112
+1653,Other hydrocarbons - imports,112
+1465,Natural gas (including LNG) - transformation in gas works,112
+2047,Petroleum coke - Transfers and recycled products,111
+1711,Other kerosene - Transformation,111
+1284,Motor Gasoline - Consumption by machinery ,111
+2052,Petroleum coke - Transformation in coke ovens,110
+1152,Lignite - Consumption by non-ferrous metals industry,110
+1055,Heat - Own use by oil and gas extraction,110
+907,Gasworks Gas - Consumption not elsewhere specified (industry),110
+1244,Liquified Petroleum Gas (LPG) - Transformation in CHP plants - autoproducers,110
+1613,Other bituminous coal - consumption by rail,109
+1615,Other bituminous coal - consumption by transport,109
+1048,Heat - Own use by briquetting plants,109
+2135,Sub-bituminous coal - Exports,109
+1690,Other kerosene - Energy industries own use,108
+1942,Peat - energy industries own use,108
+368,Brown coal - Consumption by transport,108
+1799,Other oil products n.e.c. - Transformation in CHP plants - autoproducers,107
+972,"Hard coal - own use by electricity, CHP and heat plants",107
+439,Coal Tar - Non-energy uses,107
+475,Coke Oven Gas - Consumption not elsewhere specified (industry),106
+1010,Geothermal – Autoproducer,106
+1645,Other bituminous coal - transformation in briquetting plants,105
+579,Conventional crude oil - production from off-shore,105
+324,"Brown coal briquettes - consumption in agriculture, forestry and fishing",104
+394,Brown coal - Transformation in autoproducer electricity plants,104
+1969,Peat - transformation in heat plants - main activity producers,104
+6,Additives and Oxygenates - transfers and recycled products,103
+892,Gasworks Gas - Consumption by food and tobacco ,103
+369,Brown coal - Consumption by transport equipment industry,103
+1975,Peat products - Consumption by households,103
+1995,Peat Products - Final energy consumption,103
+2014,Petroleum coke - consumption by chemical and petrochemical,103
+1833,"Vegetal waste - Consumption by agriculture, forestry and fishing",103
+1982,Peat products - Consumption by other,103
+1994,Peat products - final consumption,103
+1667,Other kerosene - Consumption by construction ,102
+195,Biogases - Transformation in heat plants - autoproducers,102
+889,Gasworks Gas - Consumption by chemical and petrochemical,102
+753,Fuel oil - Transformation in petrochemical plants,102
+1308,Motor Gasoline - Losses,101
+1963,Peat - transformation in CHP plants - autoproducers,101
+37,Anthracite - consumption by other,101
+1249,Liquified Petroleum Gas (LPG) - Transformation in heat plants - main activity producers,101
+1209,Liquefied petroleum gas (LPG) - Losses,100
+2005,Peat products - stock changes,100
+438,Coal Tar - Imports,100
+628,"Direct use of solar thermal heat - Consumption by other manuf., const. and non-fuel ind.",99
+993,From chemical sources – Autoproducer,99
+623,"Direct use of solar thermal heat - Consumption by manufacturing, construction and non-fuel mining industry",99
+1281,Motor Gasoline - Consumption by households,99
+1452,Natural Gas (including LNG) - receipts from other sources,99
+785,"Fuelwood - Own use by electricity, heat and CHP plants",99
+2096,Refinery Gas - Transformation in CHP plants - main activity producers,99
+632,Direct use of solar thermal heat - Consumption not elsewhere specified (industry),99
+541,Coking coal - transformation in blast furnaces,98
+1964,Peat - transformation in CHP plants - main activity producers,98
+464,Coke Oven Gas - Consumption by machinery ,98
+918,Gasworks Gas - Own use by gas works,98
+2111,Sub-bituminous coal - Consumption by commerce and public services,97
+927,"Gasworks Gas - Transformation in electricity, CHP and heat plants",97
+2215,From other sources – Main activity – Electricity plants,97
+1748,Other liquid biofuels - Transformation,97
+1751,"Other liquid biofuels - Transformation in electricity, CHP and heat plants",97
+276,Blast Furnace Gas - Consumption by non-metallic minerals ,97
+1768,Other oil products n.e.c. - Consumption by other,97
+1952,Peat - losses,96
+429,"Coal Tar - Consumption by manufacturing, construction and non-fuel mining industry",96
+886,Gasoline-type jet fuel - Stock changes,96
+437,Coal Tar - Final energy consumption,96
+727,Fuel oil - Losses,95
+880,Gasoline-type jet fuel - Final consumption,95
+881,Gasoline-type jet fuel - Final energy consumption,95
+877,Gasoline-type jet fuel - Consumption in transport,95
+876,Gasoline-type jet fuel - Consumption by domestic aviation,95
+1183,Lignite - Transformation in autoproducer electricity plants,95
+2152,Sub-bituminous coal - Transformation main activity CHP plants,94
+1633,"Other bituminous coal - own use by electricity, CHP and heat plants",94
+716,Fuel oil - Consumption in rail,94
+569,Conventional crude oil - final consumption,93
+370,Brown coal - Consumption by wood and wood products industry,93
+1170,Lignite - Losses,93
+387,"Brown coal - own use by electricity, CHP and heat plants",92
+328,Brown coal briquettes - energy industries own use,92
+591,"Crude petroleum - consumption by manufacturing, construction and non-fuel mining industry",92
+1255,Lubricants - Energy industries own use,92
+570,Conventional crude oil - final energy consumption,92
+1280,Motor Gasoline - Consumption by food and tobacco ,91
+971,Hard coal - own use by coke ovens,91
+374,Brown coal - consumption not elsewhere specified (other),91
+1112,"Kerosene-type Jet Fuel - Consumption by manufacturing, construction and non-fuel mining industry",90
+2055,Petroleum Coke - Transformation in electricity plants - main activity producers,90
+177,Biogases - Energy industries own use,90
+1114,"Kerosene-type Jet Fuel - Consumption by other manuf., const. and non-fuel min. ind.",90
+62,Anthracite - transformation,90
+937,Coal - total resources in place,90
+501,Coke Oven Gas - Transformation in heat plants - autoproducers,90
+2025,Petroleum coke - Consumption by other,89
+502,Coke Oven Gas - Transformation in heat plants - main activity producers,89
+42,Anthracite - consumption in households,89
+636,Electricity generating capacity - From other sources - Main activity producers,89
+1923,"Peat - consumption by agriculture, forestry and fishing",89
+895,Gasworks Gas - Consumption by machinery ,88
+616,"Direct use of solar thermal heat - Consumption by agriculture, forestry and fishing",88
+1951,Peat - imports,88
+406,Lignite brown coal - total resources in place,88
+382,Brown coal - non-energy uses,87
+1175,"Lignite - Own use by electricity, CHP and heat plants",87
+1063,Solar thermal – Main activity,87
+1006,From other sources – Autoproducer – Heat plants,87
+743,Fuel oil - Transformation in blast furnaces,86
+1743,Other liquid biofuels - Final energy consumption,86
+1082,Industrial Waste - Consumption by wood and wood products ,86
+1993,Peat products - exports,86
+1742,Other liquid biofuels - Final consumption,86
+1346,Municipal Wastes - Consumption not elsewhere specified (industry),85
+2206,From chemical heat – Autoproducer,85
+782,Fuelwood - Other energy industry own use,85
+1491,Natural gas liquids - Final consumption,85
+1687,Other kerosene - consumption in road,84
+405,Lignite brown coal - total known reserves,84
+1866,Vegetal waste - Transformation in heat plants - autoproducers,84
+1316,Motor Gasoline - Own use by oil refineries,83
+1656,Other hydrocarbons - stock changes,83
+1628,Other bituminous coal - losses,83
+3,Additives and Oxygenates - Receipts from other sources,82
+1366,Naphtha - Consumption by chemical and petrochemical,82
+254,Black Liquor - Consumption not elsewhere specified (industry),82
+613,Direct use of geothermal heat - Consumption not elsewhere specified (industry),82
+731,Fuel oil - Own use by coal mines,81
+882,Gasoline-type jet fuel - Imports,81
+936,Coal - total known reserves,81
+1160,Lignite - Consumption by wood and wood products industry,81
+1051,Heat - Own use by coke ovens,80
+2101,Refinery Gas - Transformation in heat plants - autoproducers,80
+315,Brown Coal Briquettes - Consumption by non-metallic minerals ,80
+1654,Other hydrocarbons - production,80
+1290,Motor Gasoline - Consumption by other consumers,80
+1767,Other oil products n.e.c. - Consumption by non-metallic minerals ,80
+1861,Vegetal waste - Transformation in CHP plants - autoproducers,79
+1265,Lubricants - Own use by oil refineries,79
+879,Gasoline-type jet fuel - Exports,79
+326,Brown Coal Briquettes - Consumption not elsewhere specified (industry),78
+2214,From other sources – Autoproducer – Electricity plants,78
+1675,Other kerosene - Consumption by mining and quarrying ,78
+884,Gasoline-type jet fuel - Production,78
+885,Gasoline-type jet fuel - Production from refineries,78
+2132,Sub-bituminous coal - Consumption not elsewhere specified (industry),78
+1658,Other hydrocarbons - transfers and recycled products,77
+729,Fuel oil - Other energy industry own use,77
+720,Fuel oil - Consumption not elsewhere specified (transport),77
+2023,Petroleum Coke - Consumption by non-ferrous metals ,77
+2054,Petroleum Coke - Transformation in electricity plants - autoproducers,77
+1818,Other recovered gases - Losses,77
+30,Anthracite - consumption by food and tobacco,76
+261,Black Liquor - Transformation in CHP plants - autoproducers,76
+1339,Municipal Wastes - Consumption by non-metallic minerals ,76
+109,Bagasse - Total energy supply,75
+1621,Other bituminous coal - consumption not elsewhere specified (other),75
+888,Gasoline-type jet fuel - Transfers and recycled products,75
+1968,Peat - transformation in heat plants - autoproducers,75
+99,"Bagasse - Consumption by other manuf., const. and non-fuel ind.",75
+763,Fuelwood - Consumption by non-ferrous metals ,75
+106,Bagasse - Final energy consumption,75
+95,"Bagasse - Consumption by manufacturing, construction and non-fuel industry",75
+105,Bagasse - Final consumption,75
+1342,"Municipal Wastes - Consumption by paper, pulp and print",75
+1398,"Naphtha - Transformation in electricity, CHP and heat plants",75
+108,Bagasse - Production,75
+1841,Vegetal waste - Consumption by non-metallic minerals ,74
+633,Direct use of solar thermal heat - Consumption not elsewhere specified (other),74
+1894,"Patent fuel - consumption by manufacturing, construction and non-fuel mining industry",74
+1836,Vegetal waste - Consumption by food and tobacco ,74
+1159,Lignite - Consumption by transport equipment industry,74
+1898,"Patent fuel - Consumption by other manuf., const. and non-fuel ind.",73
+347,Brown coal briquettes - Transformation in electricity plants - main activity producers,73
+1401,Naphtha - Transformation in gas works,73
+1670,Other kerosene - Consumption by food and tobacco ,73
+1275,Motor Gasoline - Consumption by chemical and petrochemical,73
+1827,Other recovered gases - Transformation in CHP plants - main activity producers,72
+1800,Other oil products n.e.c. - Transformation in CHP plants - main activity producers,72
+268,Blast Furnace Gas - Consumption by chemical and petrochemical,72
+21,Animal waste - Production,71
+544,"Coking coal - transformation in electricity, CHP and heat plants",71
+22,Animal waste - Total energy supply,71
+1171,Lignite - Non-energy use,70
+2190,Electricity - Own use by blast furnaces,70
+899,Gasworks Gas - Consumption by non-metallic minerals ,70
+58,Anthracite - production,70
+125,Biodiesel - Consumption by other,69
+2145,Sub-bituminous coal - Transformation in autoproducer CHP plants,69
+995,From chemical sources – Autoproducer – Heat plants,69
+308,Brown Coal Briquettes - Consumption by food and tobacco ,68
+1071,Industrial waste - Consumption by iron and steel,68
+1677,Other kerosene - Consumption by non-metallic minerals ,68
+1495,Natural gas liquids - Non-energy uses,68
+302,Blast Furnace Gas - Transformation in heat plants - main activity producers,68
+2017,Petroleum coke - Consumption by households,67
+669,"Electricity - total net installed capacity of electric power plants, tide, wave, marine",67
+19,Animal waste - Final consumption,67
+686,Ethane - Stock changes,67
+20,Animal waste - Final energy consumption,67
+1714,"Other kerosene - Transformation in electricity, CHP and heat plants",67
+1786,Other oil products n.e.c. - Other energy industry own use,67
+2129,Sub-bituminous coal - Consumption by transport,66
+676,Ethane - Energy industries own use,66
+1098,Industrial Waste - Stock changes,66
+735,Fuel oil - Own use by oil and gas extraction,66
+1956,Peat - own use by briquetting plants,66
+1447,Natural Gas (including LNG) - own use by LNG/regasification plants,65
+1867,Vegetal waste - Transformation in heat plants - main activity producers,65
+830,Gas Oil/ Diesel Oil - Consumption by pipeline transport,65
+1972,Peat Products - Consumption by commerce and public services,65
+1978,"Peat products - consumption by manufacturing, construction and non-fuel mining industry",65
+1983,"Peat products - Consumption by other manuf., const. and non-fuel ind.",65
+1925,Peat - consumption by commerce and public services,65
+1862,Vegetal waste - Transformation in CHP plants - main activity producers,65
+372,Brown coal - consumption in rail,64
+1085,Industrial Waste - Energy industries own use,64
+68,"Anthracite - transformation in electricity, CHP and heat plants",64
+197,Biogases - Transformation in natural gas blending plants,64
+2115,Sub-bituminous coal - Consumption by energy sector,64
+851,Gas Oil/ Diesel Oil - Other transformation,64
+2224,Of which: Pumped hydro – Autoproducer,64
+1563,Of which: biogasoline - Imports,63
+2252,White spirit and special boiling point industrial spirits - Final energy consumption,63
+305,Brown coal briquettes - Consumption by coal mines,63
+516,"Coking coal - consumption by other manuf., const. and non-fuel ind.",62
+931,Gasworks Gas - Transformation in heat plants - main activity producers,62
+1537,Of which: biodiesel - Imports,62
+2020,Petroleum Coke - Consumption by machinery ,62
+572,Conventional crude oil -  losses,62
+2107,"Sub-bituminous coal - Consumption by agriculture, forestry and fishing",61
+902,"Gasworks Gas - Consumption by paper, pulp and print",61
+267,Black Liquor - Transformation in heat plants - main activity producers,61
+730,Fuel oil - Other transformation,61
+1935,"Peat - consumption by paper, pulp and print",60
+1761,Other oil products n.e.c. - Consumption by industries not elsewhere specified,60
+1802,Other oil products n.e.c. - Transformation in electricity plants - autoproducers,60
+1705,Other kerosene - Own use by oil refineries,60
+2050,Petroleum Coke - Transformation in CHP plants - autoproducers,60
+432,"Coal Tar - Consumption by other manufacturing, construction and non-fuel mining industry",60
+1211,Liquefied petroleum gas (LPG) - Other energy industry own use,60
+2208,From chemical heat – Autoproducer – Electricity plants,60
+53,Anthracite - non-energy use,59
+86,Aviation gasoline - International aviation bunkers,59
+12,"Animal waste - Consumption by manufacturing, construction and non-fuel industry",59
+968,Hard coal - other transformation,59
+2262,White spirit and special boiling point industrial spirits - Transformation in petrochemical plants,59
+15,"Animal waste - Consumption by other manuf., const. and non-fuel min. ind.",59
+2110,Sub-bituminous coal - Consumption by coal mines,59
+2261,White spirit and special boiling point industrial spirits - Transformation,59
+524,Coking coal - energy industries own use,58
+171,Biogases - Consumption by transport,58
+1204,Liquefied petroleum gas (LPG) - Consumption not elsewhere specified (transport),58
+1451,Natural gas (including LNG) - re-injected,58
+486,"Coke Oven Gas - Own use by electricity, heat and CHP plants",58
+685,Ethane - Production from refineries,58
+2007,Peat products - Transformation,58
+1075,Industrial Waste - Consumption by non-ferrous metals ,57
+1753,Other liquid biofuels - Transformation in electricity plants - main activity producers,57
+1941,Peat - consumption not elsewhere specified (other),57
+1068,Industrial Waste - Consumption by construction ,57
+304,Brown coal briquettes - consumption by chemical and petrochemical industry,57
+408,Charcoal - Consumption by commerce and public services,57
+175,Biogases - Consumption not elsewhere specified (other),56
+2082,Refinery gas - Losses,56
+2245,White spirit and special boiling point industrial spirits - consumption by other industries and construction,56
+1217,Liquefied petroleum gas (LPG) - Own use by oil and gas extraction,56
+2241,White spirit and special boiling point industrial spirits - Consumption by industry & construction,56
+428,Coal Tar - Consumption by iron and steel,56
+253,Black Liquor - Consumption by wood and wood products ,56
+1803,Other oil products n.e.c. - Transformation in electricity plants - main activity producers,56
+1652,Other hydrocarbons - exports,55
+655,"Electricity - net installed capacity of electric power plants, self-producer geothermal",55
+1950,Peat (for fuel use) - total resources in place,55
+2077,"Refinery gas - consumption by other manuf., const. and non-fuel min. ind.",55
+717,Fuel oil - Consumption in road,55
+590,Crude petroleum - consumption by chemical and petrochemical,54
+1757,Other oil products n.e.c. - Consumption by commerce and public services,54
+1330,Municipal Wastes - Consumption by chemical and petrochemical,54
+692,Ethane - Transformation in petrochemical plants,54
+689,Ethane - Transformation,54
+1009,From other sources – Main activity – Heat plants,54
+638,Electricity generating capacity - Pumped hydro - Autoproducers,53
+1826,Other recovered gases - Transformation in CHP plants - autoproducers,53
+1967,Peat - transformation in electricity plants - main activity producers,53
+652,"Electricity - net installed capacity of electric power plants, public tide, wave, marine",53
+1163,Lignite - Consumption not elsewhere specified (other),53
+2126,"Sub-bituminous coal - Consumption by paper, pulp and print",53
+2116,Sub-bituminous coal - Consumption by food and tobacco industry,53
+1749,Other liquid biofuels - Transformation in CHP plants - autoproducers,52
+314,Brown Coal Briquettes - Consumption by non-ferrous metals ,52
+1313,"Motor Gasoline - Own use by electricity, heat and CHP plants",52
+1830,Other recovered gases - Transformation in electricity plants - main activity producers,52
+447,Coal Tar - Stock changes,52
+1738,Other liquid biofuels - Consumption in transport,51
+1735,Other liquid biofuels - Consumption by road,51
+2155,"Electricity - total tide, wave production",51
+1953,Peat - non-energy uses,51
+1248,Liquified Petroleum Gas (LPG) - Transformation in heat plants - autoproducers,51
+680,Ethane - Imports,51
+934,Coal - additional resources,50
+1008,From other sources – Main activity – CHP plants,50
+1750,Other liquid biofuels - Transformation in CHP plants - main activity producers,50
+596,Crude petroleum - reserves from oil shale and tar sands,50
+1111,Kerosene-type Jet Fuel - Consumption by machinery ,50
+1915,Patent fuel - Transformation,50
+1215,"Liquefied petroleum gas (LPG) - Own use by electricity, heat and CHP plants",50
+399,Brown coal - transformation in gas works,49
+1927,Peat - consumption by food and tobacco,49
+1012,Geothermal – Autoproducer – Heat plants,49
+1815,Other recovered gases - Energy industries own use,49
+515,Coking coal - consumption by other,49
+1188,Lignite - Transformation in gas works,49
+264,Black Liquor - Transformation in electricity plants - autoproducers,49
+1245,Liquified Petroleum Gas (LPG) - Transformation in CHP plants - main activity producers,49
+1309,Motor Gasoline - Non-energy uses,49
+113,"Biodiesel - Consumption by agriculture, forestry and fishing",49
+1299,Motor Gasoline - Consumption by wood and wood products ,49
+1246,Liquified Petroleum Gas (LPG) - Transformation in electricity plants - autoproducers,49
+449,Coal Tar - Transformation,49
+1053,Heat - Own use by gas works,48
+1949,Peat (for fuel use) - total known reserves,48
+70,Anthracite - transformation in electricity plants - main activity producers,48
+1762,Other oil products n.e.c. - Consumption by iron and steel,48
+2207,From chemical heat – Autoproducer – CHP plants,48
+1096,Industrial Waste - Own use by oil refineries,48
+1672,Other kerosene - Consumption by iron and steel,48
+1752,Other liquid biofuels - Transformation in electricity plants - autoproducers,48
+1835,Vegetal waste - Consumption by commerce and public services,48
+434,Coal Tar - Energy industries own use,48
+1080,Industrial Waste - Consumption by textile and leather ,48
+586,"Conventional crude oil - transformation in electricity, CHP and heat plants",48
+994,From chemical sources – Autoproducer – CHP plants,47
+1806,Other oil products n.e.c. - Transformation in heat plants - main activity producers,47
+1457,Natural gas (including LNG) - transformation in blast furnaces,47
+1716,Other kerosene - Transformation in electricity plants - main activity producers,47
+2109,Sub-bituminous coal - Consumption by chemical industry,47
+1763,Other oil products n.e.c. - Consumption by machinery ,47
+44,Anthracite - consumption not elsewhere specified (industry),46
+1632,Other bituminous coal - own use by coke ovens,46
+2015,Petroleum Coke - Consumption by commerce and public services,46
+1924,Peat - consumption by chemical and petrochemical,46
+508,Coking coal - consumption by food and tobacco,46
+1014,Geothermal – Main activity – CHP plants,46
+1813,"Other recovered gases - Consumption by other manuf., const. and non-fuel ind.",46
+2231,"Tide, wave and marine – Main activity",46
+522,Coking coal - consumption not elsewhere specified (industry),46
+1864,Vegetal waste - Transformation in electricity plants - autoproducers,46
+490,Coke Oven Gas - Receipts from other sources,46
+2051,Petroleum Coke - Transformation in CHP plants - main activity producers,46
+1970,"Peat products - Consumption by agriculture, forestry and fishing",46
+1769,Other oil products n.e.c. - Consumption by other consumers,45
+1719,Other kerosene - Transformation in petrochemical plants,45
+1534,Of which: biodiesel - Exports,45
+854,Gas Oil/ Diesel Oil - Own use by coke ovens,45
+595,Crude petroleum - reserves from oil shale,45
+904,Gasworks Gas - Consumption by transport equipment ,45
+592,"Crude petroleum - consumption by other manufacturing, construction and non-fuel mining industry",45
+1324,Motor Gasoline - Transformation,45
+894,Gasworks Gas - Consumption by iron and steel,45
+538,Coking coal - transformation in autoproducer CHP plants,45
+1683,Other kerosene - Consumption by transport equipment ,44
+484,Coke Oven Gas - Own use by coal mines,44
+1992,Peat products - Energy industries own use,44
+1161,Lignite - Consumption in transport,44
+165,Biogases - Consumption by non-metallic minerals ,44
+403,Lignite brown coal - additional resources,44
+1676,Other kerosene - Consumption by non-ferrous metals ,44
+262,Black Liquor - Transformation in CHP plants - main activity producers,44
+1865,Vegetal waste - Transformation in electricity plants - main activity producers,44
+66,Anthracite - transformation in CHP plants - main activity producers,44
+1661,"Other hydrocarbons - transformation in electricity, CHP and heat plants",44
+1733,"Other liquid biofuels - Consumption by other manufacturing, construction and non-fuel mining industry",44
+1560,Of which: biogasoline - Exports,44
+1947,Peat (for fuel use) - recoverable,44
+1847,Vegetal waste - Consumption not elsewhere specified (industry),44
+425,Coal Tar - Consumption by chemical and petrochemical,44
+1728,"Other liquid biofuels - Consumption by manufacturing, construction and non-fuel mining industry",44
+1829,Other recovered gases - Transformation in electricity plants - autoproducers,43
+385,Brown coal - own use by briquetting plants,43
+1744,Other liquid biofuels - Imports,43
+1522,Of which: biodiesel - Consumption by other,43
+530,Coking coal - non-energy use,43
+327,Brown coal briquettes - Consumption not elsewhere specified (other),43
+1157,Lignite - Consumption by rail,43
+1758,Other oil products n.e.c. - Consumption by construction ,43
+1121,Kerosene-type Jet Fuel - Energy industries own use,43
+682,Ethane - Own use by oil refineries,43
+1754,Other liquid biofuels - Transformation in heat plants - main activity producers,43
+75,Aviation gasoline - Consumption by other,43
+1288,Motor Gasoline - Consumption by non-metallic minerals ,42
+2010,"Peat products - Transformation in electricity, CHP and heat plants",42
+1399,Naphtha - Transformation in electricity plants - autoproducers,42
+1332,Municipal Wastes - Consumption by food and tobacco ,42
+974,Hard coal - own use by oil refineries,42
+1765,Other oil products n.e.c. - Consumption by mining and quarrying ,42
+454,"Coal Tar - Transformation in electricity, CHP and heat plants",41
+242,Bitumen - Transformation,41
+1335,Municipal Wastes - Consumption by machinery ,41
+1293,"Motor Gasoline - Consumption by paper, pulp and print",41
+1955,Peat - other transformation,41
+925,Gasworks Gas - Transformation in CHP plants - autoproducers,41
+184,Biogases - Own use by biogas production plants,41
+466,Coke Oven Gas - Consumption by mining and quarrying ,41
+1489,Natural gas liquids - Energy industries own use,40
+1492,Natural gas liquids - Final energy consumption,40
+181,Biogases - Losses,40
+1375,"Naphtha - Consumption by other manufacturing, construction and non-fuel",40
+303,Brown coal briquettes - consumption by briquetting plants,40
+28,Anthracite - consumption by chemical and petrochemical,40
+1476,"Natural gas liquids - Consumption by manufacturing, construction and non-fuel mining industry",40
+2001,Peat products - Own use by briquetting plants,40
+1498,Natural gas liquids - Own use by oil and gas extraction,39
+290,"Blast Furnace Gas - Own use by electricity, heat and CHP plants",39
+2153,Sub-bituminous coal - Transformation main activity heat plants,39
+265,Black Liquor - Transformation in electricity plants - main activity producers,39
+529,Coking coal - losses,39
+1065,"Industrial Waste - Consumption by agriculture, forestry and fishing",39
+1821,Other recovered gases - Own use by coke ovens,39
+1932,Peat - consumption by non-metallic minerals,39
+1542,Of which: biodiesel - Stock changes,38
+1318,Motor Gasoline - production from plants,38
+2122,Sub-bituminous coal - Consumption by Non-ferrous metals industry,38
+344,Brown Coal Briquettes - Transformation in CHP plants - main activity producers,38
+2102,Refinery Gas - Transformation in heat plants - main activity producers,38
+1038,Heat - Exports,38
+539,Coking coal - transformation in autoproducer electricity plants,37
+228,Bitumen - Energy industries own use,37
+1109,Kerosene-type Jet Fuel - Consumption by commerce and public services,37
+1831,Other recovered gases - Transformation in heat plants - autoproducers,37
+2022,Petroleum Coke - Consumption by mining and quarrying ,37
+532,Coking coal - own use by coke ovens,37
+1849,Vegetal waste - Energy industries own use,37
+26,Anthracite - commerce and public services,37
+185,"Biogases - Own use by electricity, CHP and heat plants",37
+248,Black Liquor - Consumption by food and tobacco ,37
+231,Bitumen - Final energy consumption,36
+673,"Ethane - Consumption by manufacturing, construction and non-fuel mining industry",36
+272,Blast Furnace Gas - Consumption by machinery ,36
+552,Conventional crude oil - consumption by food and tobacco,36
+473,Coke Oven Gas - Consumption by transport equipment ,36
+307,Brown Coal Briquettes - Consumption by construction ,36
+646,Electricity generating capacity - Solar Thermal - Total,36
+170,Biogases - Consumption by textile and leather ,36
+679,Ethane - Final energy consumption,36
+1680,"Other kerosene - Consumption by paper, pulp and print",36
+1446,Natural gas (including LNG) - own use by gas works,35
+769,Fuelwood - Consumption by transport,35
+169,Biogases - Consumption by road,35
+1296,Motor Gasoline - Consumption by textile and leather ,35
+2119,Sub-bituminous coal - Consumption by machinery industry,35
+775,Fuelwood - Consumption not elsewhere specified (transport),35
+1681,Other kerosene - Consumption by textile and leather ,34
+397,Brown coal - transformation in coke ovens,34
+2216,Geothermal – Autoproducer – Electricity plants,34
+128,Biodiesel - Consumption by rail,34
+80,Aviation gasoline - Consumption not elsewhere specified (other),34
+433,Coal Tar - Consumption not elsewhere specified (industry),34
+319,Brown Coal Briquettes - Consumption by textile and leather ,33
+318,"Brown Coal Briquettes - Consumption by paper, pulp and print",33
+469,Coke Oven Gas - Consumption by other,33
+1871,Paraffin waxes - Energy industries own use,33
+2130,Sub-bituminous coal - Consumption by transport equipment industry,33
+1878,Paraffin waxes - Own use by oil refineries,33
+1788,Other oil products n.e.c. - Own use by coal mines,33
+1939,Peat - consumption by wood and wood products,33
+897,Gasworks Gas - Consumption by mining and quarrying ,33
+1901,Patent fuel - Consumption not elsewhere specified (industry),32
+1635,Other bituminous coal - own use by oil refineries,32
+320,Brown coal briquettes - consumption by transport,32
+576,"Conventional crude oil - own use by electricity, CHP and heat plants",32
+1460,Natural gas (including LNG) - transformation in coke ovens,32
+1173,Lignite - Own use by briquetting plants,32
+1390,Naphtha - production from plants,32
+1214,Liquefied petroleum gas (LPG) - Own use by coke ovens,32
+325,Brown coal briquettes - consumption in rail,32
+1298,Motor Gasoline - Consumption by transport equipment ,32
+310,Brown coal briquettes - consumption by iron and steel industry,32
+2012,Peat Products - Transformation in heat plants - autoproducers,32
+1470,Natural gas liquids - Consumption by chemical and petrochemical,32
+1120,Kerosene-type Jet Fuel - Consumption not elsewhere specified (transport),32
+2197,Electricity - Own use by LNG/regasification plants,31
+1684,Other kerosene - Consumption by wood and wood products ,31
+2103,Refinery gas - Transformation in natural gas blending plants,31
+1759,Other oil products n.e.c. - Consumption by food and tobacco ,31
+514,Coking coal - consumption by non-metallic minerals,31
+1327,Motor Gasoline - Transformation in petrochemical plants,31
+1081,Industrial Waste - Consumption by transport equipment ,31
+1846,Vegetal waste - Consumption by wood and wood products ,31
+236,Bitumen - Own use by oil refineries,31
+480,Coke Oven Gas - Non-energy uses,31
+1805,Other oil products n.e.c. - Transformation in heat plants - autoproducers,31
+14,Animal waste - Consumption by other,31
+1130,Kerosene-type Jet Fuel - Own use by oil refineries,31
+286,Blast Furnace Gas - Other transformation,31
+41,Anthracite - consumption by textile and leather,30
+908,Gasworks Gas - Consumption not elsewhere specified (other),30
+311,Brown Coal Briquettes - Consumption by machinery ,30
+930,Gasworks Gas - Transformation in heat plants - autoproducers,30
+2028,"Petroleum Coke - Consumption by paper, pulp and print",30
+1954,Peat - other energy industry own use,30
+2220,Nuclear – Autoproducer,30
+1812,Other recovered gases - Consumption by non-metallic minerals ,30
+1054,Heat - Own use by nuclear fuel extraction and processing,30
+266,Black Liquor - Transformation in heat plants - autoproducers,30
+313,Brown Coal Briquettes - Consumption by mining and quarrying ,30
+1229,Liquefied petroleum gas (LPG) - Transformation in other energy-producing plants,29
+1213,Liquefied petroleum gas (LPG) - Own use by coal mines,29
+645,Electricity generating capacity - Solar Thermal - Main activity producers,29
+285,Blast Furnace Gas - Non-energy uses,29
+1343,Municipal Wastes - Consumption by textile and leather ,29
+657,"Electricity - net installed capacity of electric power plants, self-producer nuclear",29
+903,Gasworks Gas - Consumption by textile and leather ,29
+1646,Other bituminous coal - transformation in coke ovens,29
+1919,"Patent fuel - Transformation in electricity, CHP and heat plants",29
+509,Coking coal - consumption by households,29
+1886,"Patent fuel - consumption by agriculture, forestry and fishing",29
+506,Coking coal - consumption by commerce and public services,28
+1512,Of which: biodiesel - Consumption by commerce and public services,28
+926,Gasworks Gas - Transformation in CHP plants - main activity producers,28
+1888,Patent fuel - Consumption by commerce and public services,28
+343,Brown Coal Briquettes - Transformation in CHP plants - autoproducers,28
+122,"Biodiesel - Consumption by manufacturing, construction and non-fuel mining industry",28
+1095,"Industrial Waste - Own use by electricity, heat and CHP plants",28
+688,Ethane - Transfers and recycled products,28
+906,"Gasworks Gas - Consumption in agriculture, forestry and fishing",28
+115,Biodiesel - Consumption by commerce and public services,28
+1117,Kerosene-type Jet Fuel - Consumption by transport equipment ,28
+1348,Municipal Wastes - Energy industries own use,28
+1074,Industrial Waste - Consumption by mining and quarrying ,28
+2091,Refinery gas - Stock changes,28
+16,"Animal waste - Consumption in agriculture, forestry and fishing",28
+1945,Peat (for fuel use) - additional resources,27
+172,Biogases - Consumption by transport equipment ,27
+1011,Geothermal – Autoproducer – CHP plants,27
+1092,Industrial Waste - Other transformation,27
+916,Gasworks Gas - Own use by coal mines,27
+1940,Peat - consumption not elsewhere specified (industry),27
+1396,Naphtha - Transformation in CHP plants - autoproducers,27
+350,Brown Coal Briquettes - Transformation in heat plants - main activity producers,27
+375,Brown coal - consumption not elsewhere specified (transport),27
+35,Anthracite - consumption by non-ferrous metals,27
+488,Coke Oven Gas - Own use by oil refineries,27
+2244,White spirit and special boiling point industrial spirits - Consumption by non-metallic minerals ,26
+2222,Nuclear – Autoproducer – Electricity plants,26
+1732,Other liquid biofuels - Consumption by other,26
+459,Coke Oven Gas - Consumption by commerce and public services,26
+1247,Liquified Petroleum Gas (LPG) - Transformation in electricity plants - main activity producers,26
+47,Anthracite - energy industries own use,26
+2121,Sub-bituminous coal - Consumption by mining and quarrying industry,26
+1998,Peat products - non-energy uses,26
+103,Bagasse - Consumption not elsewhere specified (other),26
+582,Conventional crude oil - transfers and recycled products,26
+98,Bagasse - Consumption by other,26
+157,Biogases - Consumption by construction ,26
+1525,Of which: biodiesel - Consumption by rail,26
+783,Fuelwood - Other transformation,26
+2127,Sub-bituminous coal - Consumption by rail,25
+1790,"Other oil products n.e.c. - Own use by electricity, heat and CHP plants",25
+323,Brown coal briquettes - Consumption for non-energy uses,25
+1258,Lubricants - Final energy consumption,25
+1669,Other kerosene - Consumption by domestic navigation,25
+322,Brown Coal Briquettes - Consumption by wood and wood products ,25
+116,Biodiesel - Consumption by construction ,25
+1292,Motor Gasoline - Consumption by other transportation,25
+39,"Anthracite - consumption by paper, pulp and print",25
+610,Direct use of geothermal heat - Consumption by textile and leather,25
+390,Brown coal - Receipts from other sources,25
+1315,Motor Gasoline - Own use by oil and gas extraction,25
+126,"Biodiesel - Consumption by other manufacturing, construction and non-fuel mining industry",25
+547,Coking coal - transformation in main activity producer electricity plants,25
+905,Gasworks Gas - Consumption by wood and wood products ,24
+176,Biogases - Consumption not elsewhere specified (transport),24
+1721,Other liquid biofuels - Consumption by chemical and petrochemical,24
+245,"Bitumen - Transformation in electricity, CHP and heat plants",24
+513,Coking coal - consumption by non-ferrous metals,24
+1586,Oil shale - Total energy supply,24
+1042,Heat - Imports,24
+1584,Oil shale - Production,24
+1567,Of which: biogasoline - Stock changes,24
+1356,Municipal Wastes - Stock changes,24
+928,Gasworks Gas - Transformation in electricity plants - autoproducers,24
+2112,Sub-bituminous coal - Consumption by construction industry,24
+507,Coking coal - consumption by construction,24
+455,Coal Tar - Transformation in electricity plants - autoproducers,24
+531,Coking coal - own use by coal mines,24
+244,Bitumen - Transformation in coke ovens,23
+551,Conventional crude oil - consumption by construction,23
+246,Bitumen - Transformation in electricity plants - autoproducers,23
+219,Bitumen - Consumption by chemical and petrochemical,23
+222,"Bitumen - consumption by manufacturing, construction and non-fuel mining industry",23
+1722,Other liquid biofuels - Consumption by commerce and public services,23
+681,Ethane - Own use by oil and gas extraction,23
+227,"Bitumen - consumption by other manuf., const. and non-fuel min. ind.",23
+2113,Sub-bituminous coal - Consumption by domestic navigation,23
+275,Blast Furnace Gas - Consumption by non-ferrous metals ,23
+2000,Peat products - other transformation,23
+446,Coal Tar - Receipts from other sources,23
+1834,Vegetal waste - Consumption by chemical and petrochemical,23
+587,Conventional crude oil - transformation in electricity plants - main activity producers,23
+1696,Other kerosene - International marine bunkers,23
+2041,Petroleum coke - Own use by oil and gas extraction,23
+67,Anthracite - transformation in coke ovens,23
+17,Animal waste - Consumption not elsewhere specified (industry),23
+1228,Liquefied petroleum gas (LPG) - Transformation in natural gas blending plants,23
+2243,White spirit and special boiling point industrial spirits - Consumption by machinery ,23
+2242,White spirit and special boiling point industrial spirits - Consumption by iron and steel industry,23
+110,Bagasse - Transformation,23
+1717,Other kerosene - Transformation in heat plants - main activity producers,23
+604,Direct use of geothermal heat - Consumption by machinery,23
+100,"Bagasse - Consumption by paper, pulp and print",23
+441,Coal Tar - Own use by blast furnaces,23
+2141,Sub-bituminous coal - Receipts from other sources,23
+111,Bagasse - Transformation in CHP plants - autoproducers,23
+221,Bitumen - Consumption by machinery ,23
+112,"Bagasse - Transformation in electricity, CHP and heat plants",23
+1715,Other kerosene - Transformation in electricity plants - autoproducers,23
+609,"Direct use of geothermal heat - Consumption by paper, pulp and print",23
+223,Bitumen - Consumption by non-ferrous metals ,23
+1504,"Natural gas liquids - Transformation in electricity, CHP and heat plants",23
+94,Bagasse - Consumption by food and tobacco ,23
+1513,Of which: biodiesel - Consumption by construction ,23
+224,Bitumen - Consumption by non-metallic minerals ,23
+932,Gasworks Gas - Transformation in natural gas blending plants,23
+2149,Sub-bituminous coal - Transformation in coke ovens,23
+1523,"Of which: biodiesel - Consumption by other manufacturing, construction and non-fuel mining industry",23
+1519,"Of which: biodiesel - Consumption by manufacturing, construction and non-fuel mining industry",23
+2134,Sub-bituminous coal - Consumption not elsewhere specified (transport),23
+2147,Sub-bituminous coal - Transformation in autoproducer heat plants,23
+1252,Lubricants - Consumption by other,23
+1854,Vegetal waste - Other energy industry own use,23
+346,Brown coal briquettes - Transformation in electricity plants - autoproducers,23
+1510,"Of which: biodiesel - Consumption by agriculture, forestry and fishing",23
+1808,Other recovered gases - Consumption by chemical and petrochemical,23
+1251,"Lubricants - Consumption by agriculture, forestry and fishing",23
+1506,Natural gas liquids - Transformation in electricity plants - main activity producers,23
+856,Gas Oil/ Diesel Oil - Own use by gas works,23
+355,Brown coal - Consumption by domestic navigation,23
+461,Coke Oven Gas - Consumption by food and tobacco ,22
+1572,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",22
+1581,Oil shale - Non-energy use,22
+45,Anthracite - consumption not elsewhere specified (other),22
+1578,Oil Shale - Final energy consumption,22
+1577,Oil Shale - Final consumption,22
+2146,Sub-bituminous coal - Transformation in autoproducer electricity plants,22
+1570,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",22
+1397,Naphtha - Transformation in CHP plants - main activity producers,22
+1571,Oil Shale - Consumption by non-metallic minerals ,22
+1686,Other kerosene - Consumption in rail,22
+891,Gasworks Gas - Consumption by construction ,22
+1090,Industrial Waste - Losses,22
+1701,Other kerosene - Own use by coal mines,22
+1089,Industrial Waste - Imports,22
+1585,Oil shale - Stock changes,22
+72,Anthracite - transformation in heat plants - main activity producers,22
+1597,Oil Shale - Transformation in heat plants - main activity producers,22
+1594,Oil Shale - Transformation in electricity plants - main activity producers,22
+951,Hard coal - consumption by other transport,22
+2248,White spirit and special boiling point industrial spirits - Consumption by transport,22
+1587,Oil shale - Transformation,22
+384,Brown coal - Other transformation,22
+1595,Oil shale - Transformation in gas works,22
+161,Biogases - Consumption by machinery ,22
+2013,Peat Products - Transformation in heat plants - main activity producers,22
+1905,Patent fuel - energy industries own use,22
+1911,Patent fuel - Own use by briquetting plants,22
+1592,"Oil shale - Transformation in electricity, CHP and heat plants",22
+1591,Oil shale - Transformation in coke ovens,22
+560,Conventional crude oil - consumption by other,22
+1590,Oil Shale - Transformation in coal liquefaction plants,22
+1589,Oil Shale - Transformation in CHP plants - main activity producers,22
+1588,Oil Shale - Transformation in CHP plants - autoproducers,22
+321,Brown Coal Briquettes - Consumption by transport equipment ,22
+1904,Patent fuel - conversion in briquetting plants,21
+421,Charcoal - Stock changes,21
+1784,Other oil products n.e.c. - Losses,21
+677,Ethane - Exports,21
+164,Biogases - Consumption by non-ferrous metals ,21
+1783,Other oil products n.e.c. - International marine bunkers,21
+1442,Natural Gas (including LNG) - own use by blast furnaces,21
+732,Fuel oil - Own use by coke ovens,21
+27,"Anthracite - consumption by agriculture, forestry and fishing",20
+1772,"Other oil products n.e.c. - Consumption by paper, pulp and print",20
+2104,Refinery gas - Transformation in other energy-producing plants,20
+1345,Municipal Wastes - Consumption by wood and wood products ,20
+1704,Other kerosene - Own use by oil and gas extraction,20
+1400,Naphtha - Transformation in electricity plants - main activity producers,20
+2087,Refinery gas - Own use by oil and gas extraction,20
+1094,Industrial Waste - Own use by coke ovens,20
+548,Coking coal - transformation in main activity producer heat plants,20
+1593,Oil Shale - Transformation in electricity plants - autoproducers,20
+540,Coking coal - transformation in autoproducer heat plants,20
+518,Coking coal - consumption by textile and leather industry,20
+1966,Peat - transformation in electricity plants - autoproducers,20
+1283,Motor Gasoline - Consumption by iron and steel,20
+472,Coke Oven Gas - Consumption by textile and leather ,20
+220,Bitumen - Consumption by iron and steel,20
+1505,Natural gas liquids - Transformation in electricity plants - autoproducers,20
+1494,Natural gas liquids - Losses,19
+32,Anthracite - consumption by machinery,19
+1724,Other liquid biofuels - Consumption by food and tobacco ,19
+11,Animal waste - Consumption by households,19
+1202,Liquefied petroleum gas (LPG) - Consumption in rail,19
+467,Coke Oven Gas - Consumption by non-ferrous metals ,19
+1508,Natural gas liquids - Transformation in petrochemical plants,19
+1596,Oil Shale - Transformation in heat plants - autoproducers,19
+1739,Other liquid biofuels - Consumption not elsewhere specified (industry),19
+280,Blast Furnace Gas - Consumption not elsewhere specified (industry),19
+1990,Peat products - Consumption not elsewhere specified (other),19
+1352,Municipal Wastes - Imports,19
+1278,Motor Gasoline - Consumption by domestic aviation,19
+1699,Other Kerosene - Other energy industry own use,19
+2238,Uranium - reasonably assured reserves,19
+2148,Sub-bituminous coal - Transformation in briquetting plants,19
+159,Biogases - Consumption by Households,19
+1787,Other oil products n.e.c. - Other transformation,19
+671,Ethane - Consumption by chemical and petrochemical,19
+96,Bagasse - Consumption by non-ferrous metals ,18
+2099,Refinery Gas - Transformation in electricity plants - main activity producers,18
+1347,Municipal wastes - consumption not elsewhere specified (other),18
+334,Brown coal briquettes - other transformation,18
+471,"Coke Oven Gas - Consumption by paper, pulp and print",18
+1775,Other oil products n.e.c. - Consumption by transport,18
+1839,Vegetal waste - Consumption by machinery ,18
+1814,Other recovered gases - Consumption not elsewhere specified (industry),18
+2086,"Refinery gas - Own use by electricity, heat and CHP plants",18
+1727,Other liquid biofuels - Consumption by machinery ,18
+614,Direct use of geothermal heat - Consumption not elsewhere specified (other),18
+93,Bagasse - Consumption by chemical and petrochemical,18
+1216,Liquefied petroleum gas (LPG) - Own use by gas works,17
+1310,Motor Gasoline - Other energy industry own use,17
+243,Bitumen - Transformation in briquetting plants,17
+1929,Peat - consumption by machinery,17
+1103,Industrial Waste - Transformation in coke ovens,17
+1848,Vegetal waste - Consumption not elsewhere specified (other),17
+160,Biogases - Consumption by iron and steel,17
+1579,Oil shale - Imports,17
+584,Conventional crude oil - transformation in CHP plants - autoproducers,17
+1353,Municipal Wastes - Other energy industry own use,17
+1128,Kerosene-type Jet Fuel - Losses,17
+24,"Animal waste - Transformation in electricity, CHP and heat plants",17
+23,animal waste - Transformation,17
+65,Anthracite - transformation in CHP plants - autoproducers,17
+1286,Motor Gasoline - Consumption by mining and quarrying ,17
+2026,Petroleum coke - Consumption by other consumers,17
+1832,Other recovered gases - Transformation in heat plants - main activity producers,17
+564,Conventional crude oil - consumption by transport,17
+672,Ethane - Consumption by industries not elsewhere specified,17
+1892,Patent fuel - consumption by iron and steel industry,17
+674,"Ethane - Consumption by other manufacturing, construction and non-fuel mining industry",17
+9,Animal waste - Consumption by commerce and public services,17
+505,Coking coal - consumption by chemical and petrochemical industry,17
+1858,Vegetal waste - Stock changes,17
+917,"Gasworks Gas - Own use by electricity, heat and CHP plants",17
+562,Conventional crude oil - consumption by pipeline transport,17
+1811,Other recovered gases - Consumption by non-ferrous metals ,16
+1294,Motor Gasoline - Consumption by pipeline transport,16
+975,Hard coal - Own use by other energy producers,16
+929,Gasworks Gas - Transformation in electricity plants - main activity producers,16
+1084,Industrial Waste - Consumption not elsewhere specified (other),16
+898,Gasworks Gas - Consumption by non-ferrous metals ,16
+411,"Charcoal - Consumption by manufacturing, construction and non-fuel industry",16
+1997,Peat products - Losses,16
+482,Coke Oven Gas - Other transformation,16
+1662,Other hydrocarbons - transformation in electricity plants - autoproducers,16
+1663,Other hydrocarbons - transformation in electricity plants - main activity producers,16
+1899,"Patent fuel - Consumption by paper, pulp and print",16
+1136,Kerosene-type Jet Fuel - Transformation,16
+474,Coke Oven Gas - Consumption by wood and wood products ,16
+257,Black Liquor - Other transformation,16
+588,Conventional crude oil - transformation in heat plants - autoproducers,16
+549,"Conventional crude oil - consumption by agriculture, forestry and fishing",16
+59,Anthracite - receipts from other sources,16
+1062,Solar thermal – Autoproducer,16
+2246,White spirit and special boiling point industrial spirits - Consumption by rail,16
+1576,Oil shale - Exports,16
+149,Biodiesel - Transformation,16
+1957,Peat - Own use by coal mines,16
+1575,Oil shale - Energy industries own use,16
+2236,Uranium - estimated additional reserves,16
+413,"Charcoal - Consumption by other manuf., const. and non-fuel ind.",16
+1583,Oil shale - Own use in coal mines,16
+503,Coke Oven Gas - Transformation in natural gas blending plants,15
+1580,Oil shale - Losses,15
+2192,Electricity - Own use by coal liquefaction plants,15
+546,Coking coal - transformation in main activity producer CHP plants,15
+1981,Peat Products - Consumption by non-metallic minerals ,15
+1989,Peat Products - Consumption not elsewhere specified (industry),15
+1091,Industrial Waste - Other energy industry own use,15
+1896,Patent fuel - Consumption by non-metallic minerals ,15
+2139,Sub-bituminous coal - losses,15
+1766,Other oil products n.e.c. - Consumption by non-ferrous metals ,15
+2255,White spirit and special boiling point industrial spirits - Own use by oil refineries,15
+1755,"Other oil products n.e.c. - Consumption by agriculture, forestry and fishing",15
+1731,Other liquid biofuels - Consumption by non-metallic minerals ,15
+1853,Vegetal waste - Imports,15
+182,Biogases - Other energy industry own use,15
+1718,Other kerosene - Transformation in natural gas blending plants,15
+2249,White spirit and special boiling point industrial spirits - Energy industries own use,15
+460,Coke Oven Gas - Consumption by construction ,15
+597,Crude petroleum - reserves from tar sands,15
+341,Brown coal briquettes - Transformation in blast furnaces,15
+2239,White spirit and special boiling point industrial spirits - Consumption by construction ,15
+1890,Patent fuel - Consumption by food and tobacco ,15
+915,Gasworks Gas - Other energy industry own use,15
+620,Direct use of solar thermal heat - Consumption by food and tobacco,15
+1856,"Vegetal waste - Own use by electricity, heat and CHP plants",14
+2209,From chemical heat – Main activity,14
+2118,Sub-bituminous coal - Consumption by iron and steel industry,14
+2009,Peat Products - Transformation in CHP plants - main activity producers,14
+2075,Refinery gas - Consumption by other,14
+2210,From chemical heat – Main activity – CHP plants,14
+1974,Peat Products - Consumption by food and tobacco ,14
+409,Charcoal - Consumption by food and tobacco ,14
+407,Charcoal - Consumption by chemical and petrochemical,14
+1973,Peat Products - Consumption by construction ,14
+135,Biodiesel - Consumption not elsewhere specified (transport),14
+746,Fuel oil - Transformation in coke ovens,14
+659,"Electricity - net installed capacity of electric power plants, self-producer tide, wave, marine",14
+152,"Biodiesel - Transformation in electricity, CHP and heat plants",14
+451,Coal Tar - Transformation in CHP plants - autoproducers,14
+619,Direct use of solar thermal heat - Consumption by construction,14
+1773,Other oil products n.e.c. - Consumption by road,14
+1407,Natural gas (including LNG) - consumption by domestic navigation,14
+1371,Naphtha - Consumption by non-ferrous metals ,14
+630,Direct use of solar thermal heat - Consumption by textile and leather,14
+462,Coke Oven Gas - Consumption by households,14
+1734,"Other liquid biofuels - Consumption by paper, pulp and print",14
+690,Ethane - Transformation in CHP plants - autoproducers,14
+691,"Ethane - Transformation in electricity, CHP and heat plants",14
+563,Conventional crude oil - consumption by textile and leather,14
+818,Gas Oil/ Diesel Oil - Consumption by domestic aviation,13
+1070,Industrial Waste - Consumption by households,13
+1369,Naphtha - Consumption by industries not elsewhere specified,13
+1367,Naphtha - Consumption by food and tobacco ,13
+1086,Industrial Waste - Exports,13
+34,Anthracite - consumption by mining and quarrying,13
+1093,Industrial Waste - Own use by coal mines,13
+481,Coke Oven Gas - Other energy industry own use,13
+1333,Municipal Wastes - Consumption by households,13
+1712,Other kerosene - Transformation in CHP plants - autoproducers,13
+10,Animal waste - Consumption by food and tobacco ,13
+2002,Peat Products - Own use by coal mines,13
+163,Biogases - Consumption by mining and quarrying ,13
+2131,Sub-bituminous coal - Consumption by wood and wood products industry,13
+2128,Sub-bituminous coal - Consumption by textile and leather,13
+625,Direct use of solar thermal heat - Consumption by non-ferrous metals,13
+2211,From chemical heat – Main activity – Electricity plants,13
+225,Bitumen - Consumption by other,13
+559,Conventional crude oil - consumption by non-metallic minerals,13
+960,Hard coal - consumption in domestic navigation,13
+1049,Heat - Own use by coal liquefaction plants,13
+64,Anthracite - transformation in briquetting plants,13
+2039,Petroleum coke - Own use by coke ovens,13
+1791,Other oil products n.e.c. - Own use by oil and gas extraction,13
+989,Hard coal - transformation in gas works,13
+2056,Petroleum Coke - Transformation in heat plants - main activity producers,13
+226,Bitumen - Consumption by other consumers,13
+545,Coking coal - transformation in gas works,12
+631,Direct use of solar thermal heat - Consumption by transport equipment,12
+553,Conventional crude oil - consumption by households,12
+52,Anthracite - losses,12
+1660,Other hydrocarbons - transformation in CHP plants - main activity producers,12
+519,Coking coal - consumption by transport,12
+443,Coal Tar - Own use by gas works,12
+123,Biodiesel - Consumption by mining and quarrying ,12
+781,Fuelwood - Non-energy uses,12
+55,Anthracite - own use by coal mines,12
+183,Biogases - Other transformation,12
+349,Brown Coal Briquettes - Transformation in heat plants - autoproducers,12
+1129,"Kerosene-type Jet Fuel - Own use by electricity, heat and CHP plants",12
+1720,"Other liquid biofuels - Consumption by agriculture, forestry and fishing",12
+600,Direct use of geothermal heat - Consumption by construction,12
+1958,"Peat - own use in electricity, CHP and heat plants",12
+118,Biodiesel - Consumption by food and tobacco ,12
+1520,Of which: biodiesel - Consumption by mining and quarrying ,12
+622,Direct use of solar thermal heat - Consumption by machinery,12
+452,Coal Tar - Transformation in CHP plants - main activity producers,12
+517,Coking coal - consumption by rail,12
+1515,Of which: biodiesel - Consumption by food and tobacco ,12
+812,Gas coke - Total energy supply,12
+810,Gas coke - production,12
+1926,Peat - consumption by construction,11
+606,Direct use of geothermal heat - Consumption by non-metallic minerals,11
+97,Bagasse - Consumption by non-metallic minerals ,11
+1976,Peat products - consumption by iron and steel,11
+2070,Refinery Gas - Consumption by industries not elsewhere specified,11
+2076,Refinery gas - consumption by other consumers,11
+611,Direct use of geothermal heat - Consumption by transport equipment,11
+1986,Peat Products - Consumption by transport,11
+1984,Peat Products - Consumption by rail,11
+173,Biogases - Consumption by wood and wood products ,11
+1521,Of which: biodiesel - Consumption by non-metallic minerals ,11
+1337,Municipal Wastes - Consumption by mining and quarrying ,11
+1921,Patent fuel - Transformation in heat plants - autoproducers,11
+333,Brown coal briquettes - Other energy industry own use,11
+1354,"Municipal Wastes - Own use by electricity, heat and CHP plants",11
+511,Coking coal - consumption by machinery industry,11
+1186,Lignite - Transformation in coke ovens,11
+883,Gasoline-type jet fuel - Own use by oil refineries,11
+1697,Other kerosene - Losses,11
+852,Gas Oil/ Diesel Oil - Own use by blast furnaces,11
+117,Biodiesel - Consumption by domestic navigation,11
+1844,"Vegetal waste - Consumption by paper, pulp and print",11
+869,Gas Oil/ Diesel Oil - Transformation in coke ovens,11
+878,Gasoline-type jet fuel - Energy industries own use,11
+124,Biodiesel - Consumption by non-metallic minerals ,11
+1902,Patent fuel - Consumption not elsewhere specified (other),11
+430,Coal Tar - Consumption by non-ferrous metals ,11
+74,"Aviation gasoline - Consumption by manufacturing, construction and non-fuel industry",10
+626,Direct use of solar thermal heat - Consumption by non-metallic minerals,10
+1553,Of which: biogasoline - Consumption by other,10
+1820,Other recovered gases - Other energy industry own use,10
+2074,Refinery Gas - Consumption by non-metallic minerals ,10
+203,Biogasoline - Consumption by Other,10
+1855,Vegetal waste - Other transformation,10
+1385,Naphtha - Other transformation,10
+2030,"Petroleum coke - Consumption in agriculture, forestry and fishing",10
+442,Coal Tar - Own use by coke ovens,10
+1334,Municipal Wastes - Consumption by iron and steel,10
+78,Aviation gasoline - Consumption by transport equipment ,10
+76,"Aviation gasoline - Consumption by other manuf., const. and non-fuel ind.",10
+1977,Peat Products - Consumption by machinery ,10
+1884,Paraffin waxes - Transformation,10
+556,Conventional crude oil - consumption by machinery,10
+1885,Paraffin waxes - Transformation in petrochemical plants,10
+1273,Lubricants - Transformation,10
+1574,Oil Shale - Consumption by wood and wood products ,10
+56,Anthracite - own use by coke ovens,9
+561,Conventional crude oil - consumption by other consumers not elsewhere specified,9
+750,Fuel oil - Transformation in gas works,9
+574,Conventional crude oil - other energy industry own use,9
+29,Anthracite - consumption by construction,9
+450,Coal Tar - Transformation in blast furnaces,9
+1544,Of which: biodiesel - Transformation,9
+73,Aviation gasoline - Consumption by commerce and public services,9
+1648,Other bituminous coal - transformation in gas works,9
+1140,Kerosene-type Jet Fuel - Transformation in electricity plants - main activity producers,9
+558,Conventional crude oil - consumption by non-ferrous metals,9
+1971,Peat products - consumption by chemical and petrochemical,9
+1516,Of which: biodiesel - Consumption by households,9
+119,Biodiesel - Consumption by households,9
+1139,"Kerosene-type Jet Fuel - Transformation in electricity, CHP and heat plants",9
+1850,Vegetal waste - Exports,9
+1547,Of which: biodiesel - Transformation in electricity plants - main activity producers,9
+1713,Other kerosene - Transformation in CHP plants - main activity producers,9
+1325,"Motor gasoline - Transformation in electricity, CHP and heat plants",9
+1118,Kerosene-type Jet Fuel - Consumption not elsewhere specified (industry),9
+1546,"Of which: biodiesel - Transformation in electricity, CHP and heat plants",9
+1326,Motor Gasoline - Transformation in electricity plants - main activity producers,9
+151,Biodiesel - Transformation in CHP plants - main activity producers,8
+1267,Lubricants - Own use in coke ovens,8
+1916,Patent fuel - Transformation in CHP plants - autoproducers,8
+1736,Other liquid biofuels - Consumption by transport equipment ,8
+1550,Of which: biogasoline - Consumption by domestic navigation,8
+1634,Other bituminous coal - own use by gas works,8
+1729,Other liquid biofuels - Consumption by mining and quarrying ,8
+973,Hard coal - own use by gas works,8
+431,Coal Tar - Consumption by non-metallic minerals ,8
+1991,Peat Products - Consumption not elsewhere specified (transport),8
+922,Gasworks Gas - Stock changes,8
+200,Biogasoline - Consumption by domestic navigation,8
+1695,Other kerosene - International aviation bunkers,8
+1838,Vegetal waste - Consumption by iron and steel,8
+566,Conventional crude oil - consumption by wood and wood products,8
+1274,Lubricants - Transformation in petrochemical plants,8
+1629,Other bituminous coal - other energy industry own use,8
+644,Electricity generating capacity - Solar Thermal - Autoproducers,8
+1737,Other liquid biofuels - Consumption by wood and wood products ,8
+2068,Refinery Gas - Consumption by food and tobacco ,8
+2114,"Sub-bituminous coal - Consumption by electricity, CHP and heat plants",8
+1481,"Natural gas liquids - Consumption by other manufacturing, construction and non-fuel mining industry",8
+1312,Motor Gasoline - Own use by coal mines,8
+612,Direct use of geothermal heat - Consumption by wood and wood products,8
+1887,Patent fuel - consumption by chemical and petrochemicalindustry,8
+1338,Municipal Wastes - Consumption by non-ferrous metals ,8
+1137,Kerosene-type Jet Fuel - Transformation in CHP plants - autoproducers,8
+534,Coking coal - receipts from other sources,8
+1996,Peat products - imports,8
+1920,Patent fuel - Transformation in electricity plants - main activity producers,8
+1127,Kerosene-type Jet Fuel - International marine bunkers,8
+1464,Natural Gas (including LNG) - transformation in gas-to-liquid plants,7
+1373,Naphtha - Consumption by other,7
+629,"Direct use of solar thermal heat - Consumption by paper, pulp and print",7
+786,Fuelwood - Own use by oil refineries,7
+1141,Kerosene-type Jet Fuel - Transformation in petrochemical plants,7
+71,Anthracite - transformation in heat plants - autoproducers,7
+1115,Kerosene-type Jet Fuel - Consumption by road,7
+2240,White spirit and special boiling point industrial spirits - Consumption by industries not elsewhere specified,7
+865,Gas Oil/ Diesel Oil - Transformatin in gas works,7
+1046,Heat - Own use by biogas production plants,7
+1378,Naphtha - Consumption by transport,7
+1376,Naphtha - Consumption by road,7
+1374,Naphtha - Consumption by other consumers not elsewhere specified,7
+1822,"Other recovered gases - Own use by electricity, heat and CHP plants",7
+1569,Oil shale - consumption by chemical and petrochemical industry,7
+426,Coal Tar - Consumption by construction ,7
+1514,Of which: biodiesel - Consumption by domestic navigation,7
+487,Coke Oven Gas - Own use by gas works,7
+348,Brown coal briquettes - transformation in gas works,7
+1741,Other liquid biofuels - Energy industries own use,7
+1745,Other liquid biofuels - Own use by oil refineries,7
+1532,Of which: biodiesel - Consumption not elsewhere specified (transport),7
+1760,Other oil products n.e.c. - Consumption by households,7
+1845,Vegetal waste - Consumption by textile and leather ,7
+496,Coke Oven Gas - Transformation in coke ovens,7
+555,Conventional crude oil - consumption by iron and steel,7
+1582,Oil shale - Other energy industry own use,7
+1918,Patent fuel - Transformation in coke ovens,7
+1819,Other recovered gases - Non-energy uses,7
+198,"Biogasoline - Consumption by agriculture, forestry and fishing",6
+249,Black Liquor - Consumption by machinery ,6
+1979,Peat Products - Consumption by mining and quarrying ,6
+808,Gas Coke - Final energy consumption,6
+13,Animal waste - Consumption by non-metallic minerals ,6
+807,Gas coke - final consumption,6
+806,Gas coke - Energy industries own use,6
+1668,Other kerosene - Consumption by domestic aviation,6
+1573,Oil Shale - Consumption by textile and leather ,6
+81,Aviation gasoline - Consumption not elsewhere specified (transport),6
+1548,"Of which: biogasoline - Consumption by agriculture, forestry and fishing",6
+1212,Liquefied petroleum gas (LPG) - Own use by blast furnaces,6
+803,Gas coke - Consumption by other,6
+1601,Other bituminous coal - consumption by domestic navigation,6
+802,"Gas Coke - Consumption by manufacturing, construction and non-fuel industry",6
+800,Gas coke - Consumption by households,6
+784,Fuelwood - Own use by briquetting plants,6
+809,Gas coke - Own use by gas works,6
+1344,Municipal Wastes - Consumption by transport equipment ,6
+1557,Of which: biogasoline - Consumption not elsewhere specified (other),6
+1903,Patent fuel - Conversion in blast furnaces,6
+2078,"Refinery Gas - Consumption by paper, pulp and print",6
+617,Direct use of solar thermal heat - Consumption by chemical and petrochemical,6
+1530,Of which: biodiesel - Consumption not elsewhere specified (industry),6
+585,Conventional crude oil - transformation in CHP plants - main activity producers,6
+1985,Peat Products - Consumption by textile and leather ,6
+2008,Peat Products - Transformation in CHP plants - autoproducers,6
+1988,Peat Products - Consumption by wood and wood products ,6
+235,Bitumen - Other energy industry own use,6
+2247,White spirit and special boiling point industrial spirits - Consumption by road,6
+207,Biogasoline - Consumption not elsewhere specified (other),6
+63,Anthracite - transformation in blast furnaces,6
+453,Coal Tar - Transformation in coke ovens,6
+1740,Other liquid biofuels - Consumption not elsewhere specified (other),6
+1777,Other oil products n.e.c. - Consumption by wood and wood products ,6
+814,Gas coke - transformation in gas works,6
+813,Gas coke - Transformation,6
+133,Biodiesel - Consumption not elsewhere specified (industry),6
+2003,"Peat Products - Own use by electricity, CHP and heat plants",5
+388,Brown coal - own use by oil refineries,5
+697,Fuel oil - Consumption by domestic aviation,5
+101,Bagasse - Consumption by wood and wood products ,5
+1239,Liquified Petroleum Gas (LPG) - Consumption by pipeline transport,5
+57,"Anthracite - own use by electricity, CHP and heat plants",5
+504,"Coking coal - consumption by agriculture, forestry and fishing",5
+1264,"Lubricants - Own use by electricity, heat and CHP plants",5
+1295,Motor Gasoline - Consumption by rail,5
+2016,Petroleum Coke - Consumption by food and tobacco ,5
+919,Gasworks Gas - Own use by oil refineries,5
+1938,Peat - consumption by transport,5
+88,Aviation gasoline - production from plants,5
+440,Coal Tar - Other transformation,5
+1936,Peat - consumption by rail,5
+1307,Motor Gasoline - International marine bunkers,5
+1311,Motor Gasoline - Other transformation,5
+523,Coking coal - consumption not elsewhere specified (other),5
+1314,Motor Gasoline - Own use by gas works,5
+969,Hard coal - own use by briquetting plants,5
+291,Blast Furnace Gas - Own use by other energy producers,5
+601,Direct use of geothermal heat - Consumption by food and tobacco,5
+1387,Naphtha - Own use by oil and gas extraction,5
+2230,"Tide, wave and marine – Autoproducer",5
+1700,Other kerosene - Other transformation,5
+1193,Liquefied petroleum gas (LPG) - Consumption by domestic navigation,5
+1702,Other kerosene - Own use by coke ovens,5
+114,Biodiesel - Consumption by chemical and petrochemical,5
+2049,Petroleum coke - Transformation in briquetting plants,5
+342,Brown coal briquettes - transformation in briquetting plants,5
+1987,Peat Products - Consumption by transport equipment ,5
+1176,Lignite - Own use by oil refineries,5
+1703,"Other kerosene - Own use by electricity, CHP and heat plants",5
+554,Conventional crude oil - consumption by industries not elsewhere specified,5
+542,Coking coal - transformation in briquetting plants,5
+2108,Sub-bituminous coal - Consumption by briquetting plants,5
+1922,Patent fuel - Transformation in heat plants - main activity producers,4
+1804,Other oil products n.e.c. - Transformation in gas works,4
+456,Coal Tar - Transformation in heat plants - main activity producers,4
+153,Biodiesel - Transformation in electricity plants - main activity producers,4
+734,Fuel oil - Own use by gas works,4
+1723,Other liquid biofuels - Consumption by construction ,4
+1725,Other liquid biofuels - Consumption by households,4
+1726,Other liquid biofuels - Consumption by iron and steel,4
+913,Gasworks Gas - Imports,4
+805,Gas Coke - Consumption not elsewhere specified (industry),4
+804,"Gas Coke - Consumption by other manuf., const. and non-fuel ind.",4
+2221,Nuclear – Autoproducer – CHP plants,4
+500,Coke Oven Gas - Transformation in gas works,4
+710,Fuel oil - Consumption by pipeline transport,4
+1771,Other oil products n.e.c. - Consumption by other transportation,4
+427,Coal Tar - Consumption by food and tobacco ,4
+811,Gas coke - stock changes,4
+2133,Sub-bituminous coal - Consumption not elsewhere specified (other),4
+1549,Of which: biogasoline - Consumption by commerce and public services,4
+1329,"Municipal Wastes - Consumption by agriculture, forestry and fishing",4
+1477,Natural gas liquids - Consumption by mining and quarrying ,4
+575,Conventional crude oil - other transformation,4
+2100,Refinery gas - Transformation in gas works,4
+2066,Refinery Gas - Consumption by commerce and public services,4
+335,Brown Coal Briquettes - Own use by oil refineries,4
+199,Biogasoline - Consumption by commerce and public services,4
+2040,"Petroleum coke - Own use by electricity, heat and CHP plants",4
+1870,"Paraffin waxes - Consumption by other manuf., const. and non-fuel min. ind.",3
+1488,Natural gas liquids - Consumption not elsewhere specified (industry),3
+150,Biodiesel - Transformation in CHP plants - autoproducers,3
+1868,Paraffin waxes - Consumption by industries not elsewhere specified,3
+1869,"Paraffin waxes - Consumption by manufacturing, construction and non-fuel mining industry",3
+1328,Municipal Waste - Losses,3
+1874,Paraffin waxes - Final energy consumption,3
+1487,Natural gas liquids - Consumption in transport,3
+1386,Naphtha - Own use by coke ovens,3
+1893,Patent fuel - Consumption by machinery ,3
+2067,Refinery Gas - Consumption by construction ,3
+25,Animal waste - Transformation in electricity plants - main activity producers,3
+2069,Refinery gas - Consumption by households,3
+2029,Petroleum Coke - Consumption by transport equipment ,3
+1486,Natural gas liquids - Consumption by wood and wood products ,3
+565,Conventional crude oil - consumption by transport equipment,3
+1471,Natural gas liquids - Consumption by commerce and public services,3
+1478,Natural gas liquids - Consumption by non-ferrous metals ,3
+134,Biodiesel - Consumption not elsewhere specified (other),3
+1475,Natural gas liquids - Consumption by machinery ,3
+1473,Natural gas liquids - Consumption by households,3
+1472,Natural gas liquids - Consumption by food and tobacco ,3
+1789,Other oil products n.e.c. - Own use by coke ovens,3
+910,Gasworks Gas - Exports,3
+444,Coal Tar - Own use by oil refineries,3
+107,Bagasse - Other energy industry own use,3
+1469,"Natural gas liquids - Consumption by agriculture, forestry and fishing",3
+1776,Other oil products n.e.c. - Consumption by transport equipment ,3
+1480,Natural gas liquids - Consumption by Other,3
+1482,"Natural gas liquids - Consumption by paper, pulp and print",3
+1483,Natural gas liquids - Consumption by road,3
+1484,Natural gas liquids - Consumption by textile and leather ,3
+1485,Natural gas liquids - Consumption by transport equipment ,3
+1630,Other bituminous coal - own use by briquetting plants,3
+1479,Natural gas liquids - Consumption by non-metallic minerals ,3
+1917,Patent fuel - Transformation in CHP plants - main activity producers,3
+1937,Peat - consumption by textile and leather,3
+104,Bagasse - Energy industries own use,3
+1931,Peat - consumption by non-ferrous metals,3
+102,Bagasse - Consumption not elsewhere specified (industry),3
+1349,Municipal Wastes - Exports,3
+1047,Heat - Own use by blast furnaces,2
+1552,Of which: biogasoline - Consumption by mining and quarrying ,2
+383,Brown coal - other energy industry own use,2
+1263,Lubricants - Other transformation,2
+201,"Biogasoline - Consumption by manufacturing, construction and non-fuel industry",2
+143,Biodiesel - Other transformation processes not elsewhere classified,2
+204,"Biogasoline - Consumption by other manuf., const. and non-fuel ind.",2
+144,Biodiesel - Own use by coal mines,2
+202,Biogasoline - Consumption by mining and quarrying ,2
+1266,Lubricants - Own use in coal mines,2
+1730,Other liquid biofuels - Consumption by non-ferrous metals ,2
+1261,Lubricants - Losses,2
+145,Biodiesel - Own use by oil and gas extraction,2
+1254,Lubricants - Consumption by transport,2
+1539,Of which: biodiesel - Own use by coal mines,2
+1253,Lubricants - Consumption by rail,2
+1551,"Of which: biogasoline - Consumption by manufacturing, construction and non-fuel mining industry",2
+1622,Other bituminous coal - consumption not elsewhere specified (transport),2
+209,Biogasoline - Energy industries own use,2
+1540,Of which: biodiesel - Own use by oil and gas extraction,2
+141,Biodiesel - International marine bunkers,2
+520,Coking coal - consumption by transport equipment industry,2
+136,Biodiesel - Energy industries own use,2
+1565,Of which: biogasoline - Own use by oil and gas extraction,2
+214,Biogasoline - Own use by coal mines,2
+215,Biogasoline - own use by oil and gas extraction,2
+1564,Of which: biogasoline - Own use by coal mines,2
+1559,Of which: biogasoline - Energy industries own use,2
+1474,Natural gas liquids - Consumption by iron and steel,2
+131,Biodiesel - Consumption by wood and wood products ,2
+130,Biodiesel - Consumption by transport equipment ,2
+1554,"Of which: biogasoline - Consumption by other manuf., const. and non-fuel ind.",2
+127,"Biodiesel - Consumption by paper, pulp and print",2
+1023,Heat - Consumption by LNG/regasification plants,2
+1774,Other oil products n.e.c. - Consumption by textile and leather ,2
+121,Biodiesel - Consumption by machinery ,2
+1999,Peat products - Other energy industry own use,2
+120,Biodiesel - Consumption by iron and steel,2
+1910,Patent fuel - losses,2
+2038,Petroleum coke - Own use by blast furnaces,2
+1518,Of which: biodiesel - Consumption by machinery ,2
+2085,Refinery gas - Own use by coke ovens,2
+297,Blast Furnace Gas - Transformation in coke ovens,2
+1538,Of which: biodiesel - International marine bunkers,2
+1178,Lignite - Receipts from other sources,2
+1533,Of which: biodiesel - Energy industries own use,2
+1172,Lignite - Other energy industry own use,2
+2071,Refinery gas - Consumption by iron and steel,2
+1531,Of which: biodiesel - Consumption not elsewhere specified (other),2
+491,Coke Oven Gas - Stock changes,2
+799,Gas Coke - Consumption by commerce and public services,2
+801,Gas Coke - Consumption by iron and steel,2
+1528,Of which: biodiesel - Consumption by wood and wood products ,2
+180,Biogases - Imports,2
+1368,Naphtha - Consumption by households,2
+18,Animal waste - Consumption not elsewhere specified (other),2
+1524,"Of which: biodiesel - Consumption by paper, pulp and print",2
+1527,Of which: biodiesel - Consumption by transport equipment ,2
+1511,Of which: biodiesel - Consumption by chemical and petrochemical,2
+550,Conventional crude oil - consumption by commerce and public services,2
+69,Anthracite - transformation in electricity plants - autoproducers,2
+1517,Of which: biodiesel - Consumption by iron and steel,2
+270,Blast Furnace Gas - Consumption by food and tobacco ,1
+1558,Of which: biogasoline - Consumption not elsewhere specified (transport),1
+2084,Refinery gas - Other energy industry own use,1
+187,Biogases - Stock changes,1
+1895,Patent fuel - Consumption by non-ferrous metals ,1
+1876,Paraffin waxes - Losses,1
+40,Anthracite - consumption by rail,1
+1164,Lignite - Consumption not elsewhere specified (transport),1
+2011,Peat Products - Transformation in electricity plants - main activity producers,1
+274,Blast Furnace Gas - Consumption by mining and quarrying ,1
+247,Bitumen - Transformation in electricity plants - main activity producers,1
+46,Anthracite - consumption not elsewhere specified (transport),1
+1287,Motor Gasoline - Consumption by non-ferrous metals ,1
+279,Blast Furnace Gas - Consumption by transport equipment ,1
+457,"Coke Oven Gas - Consumption by agriculture, forestry and fishing",1
+278,"Blast Furnace Gas - Consumption by paper, pulp and print",1
+269,Blast Furnace Gas - Consumption by construction ,1
+54,Anthracite - other transformation,1
+1900,Patent fuel - Consumption by textile and leather ,1
+2073,Refinery Gas - Consumption by mining and quarrying ,1
+43,Anthracite - Consumption in transport,1
+521,Coking coal - consumption by wood and wood products industry,1
+288,Blast Furnace Gas - Own use by coal mines,1
+208,Biogasoline - Consumption not elsewhere specified (transport),1
+573,Conventional crude oil - non-energy use,1
+603,Direct use of geothermal heat - Consumption by iron and steel,1
+142,Biodiesel - Net transfers,1
+423,Charcoal - Transformation,1
+414,Charcoal - Consumption by textile and leather ,1
+233,Bitumen - International marine bunkers,1
+1138,Kerosene-type Jet Fuel - Transformation in CHP plants - main activity producers,1
+1889,Patent fuel - Consumption by construction ,1
+424,"Charcoal - Transformation in electricity, CHP and heat plants",1
+1402,Naphtha - Transformation in heat plants - main activity producers,1
+2037,Petroleum coke - Other transformation,1
+1497,"Natural gas liquids - Own use by electricity, heat and CHP plants",1
+1377,Naphtha - Consumption by textile and leather ,1
+624,Direct use of solar thermal heat - Consumption by mining and quarrying,1
+1545,Of which: biodiesel - Transformation in CHP plants - main activity producers,1
+1980,Peat Products - Consumption by non-ferrous metals ,1
+1372,Naphtha - Consumption by non-metallic minerals ,1
+557,Conventional crude oil - consumption by mining and quarrying,1
+337,Brown coal briquettes - Receipts from other sources,1
